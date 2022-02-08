@@ -1,4 +1,12 @@
+This section is under construction.
+
+&nbsp;
+
 # Advanced investments
+
+There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include art, coins, real estate, private equity, and hedge funds, which on their own have a universe of possible investments. Most people can safely ignore all of them. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors.
+
+&nbsp;
 
 ## Gold and other precious metals
 
