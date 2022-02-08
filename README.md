@@ -2,15 +2,15 @@ This section is under construction.
 
 &nbsp;
 
-# Advanced investments
+# Advanced topics
 
-There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include art, coins, real estate, private equity, and hedge funds, which on their own have a universe of possible investments. Most people can safely ignore all of them. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors.
+There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include collectibles like art and coins, real estate, and hedge funds, which on their own have a universe of possible investments such as private equity and merger arbitrage. Most people can safely ignore all of them. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors.
 
 &nbsp;
 
 ## Gold and other precious metals
 
-Gold is a volatile asset that can lose value for many consecutive years and has experienced no positive real return over time. It is not a reliable hedge against inflation. For more information, you could read [this paper](https://github.com/investindex/Advanced/blob/main/GoldenDilemma.pdf) or watch videos [here](https://www.youtube.com/watch?v=ulgqlQWlPbo), [here](https://www.youtube.com/watch?v=_f0dns9fHFs&t=1347s), and [here](https://www.youtube.com/watch?v=UDHJh8CXTVQ&t=927s).
+Gold is a volatile asset that can lose value for long periods and has experienced no positive real return over time. It is not a reliable hedge against inflation. For more information, you could read [this paper](https://github.com/investindex/Advanced/blob/main/GoldenDilemma.pdf) or watch videos [here](https://www.youtube.com/watch?v=ulgqlQWlPbo), [here](https://www.youtube.com/watch?v=_f0dns9fHFs&t=1347s), and [here](https://www.youtube.com/watch?v=UDHJh8CXTVQ&t=927s).
 
 In [this interview](https://www.youtube.com/watch?v=RSwctXnMnrw&t=4838s) on the Rational Reminder, Dr. Campbell Harvey discussed a fascinating interaction he had with someone who managed a family trust with an investment horizon of hundreds of years. He also mentioned the possibility that gold could lose its value in the very long run due to asteroid mining, which is [not wild speculation](https://www.youtube.com/watch?v=y8XvQNt26KI).
 
