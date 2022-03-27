@@ -26,7 +26,7 @@ I don't recommend investing in precious metals. If you're not concerned with inf
 
 ## Asset classes in _Reducing the Risk of Black Swans_
 
-Explanation incoming. Book link [here](https://libgen.is/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def).
+Explanation incoming. Book link [here](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def).
 
 &nbsp;
 
