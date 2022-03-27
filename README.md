@@ -4,7 +4,7 @@ This section is under construction.
 
 # Advanced topics
 
-There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include collectibles like art, coins, and jewelry; real estate; futures; and hedge funds, which on their own have a universe of possible investments such as private equity and merger arbitrage. Most people can safely ignore these alternative asset classes. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors.
+There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include collectibles like art, coins, and jewelry; real estate; (managed) futures; and hedge funds, which on their own have a universe of possible investments such as private equity and merger arbitrage. Most people can safely ignore derivatives and alternative asset classes. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors.
 
 &nbsp;
 
@@ -24,7 +24,7 @@ In my view, for most people there is one good reason to own gold: to protect you
 
 ## Cryptocurrency
 
-[Intelligent investor column](https://www.wsj.com/articles/bitcoin-you-can-get-crypto-investing-right-and-still-play-it-wrong-11643990277).
+The section on gold above expressed the only application of cryptocurrency I would currently recommend to people who aren't fascinated with the topic and are concerned with growing and protecting their wealth. [This "Intelligent investor" column](https://www.wsj.com/articles/bitcoin-you-can-get-crypto-investing-right-and-still-play-it-wrong-11643990277) from the WSJ describes the main issue with investing in cryptocurrencies that I'd like to express. Even if _some_ cryptocurrencies appreciate greatly in value, the distribution of returns is almost certain to be highly [positively skewed](https://en.wikipedia.org/wiki/Skewness#/media/File:Relationship_between_mean_and_median_under_different_skewness.png). Unless you're determined to build a diversified portfolio of cryptocurrencies on your own, there is a high risk of missing out on the appreciation of a small fraction of cryptocurrencies. The [positively skewed distribution](https://www.youtube.com/watch?v=xfdMDGIABek) of stock returns is why you need to diversify broadly to avoid the risk of underperformance.
 
 &nbsp;
 
