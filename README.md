@@ -10,7 +10,7 @@ There are many types of investments beyond the stock and bond portfolios discuss
 
 ## Gold and other precious metals
 
-There are a few reasons people invest in gold. They may think that it is a reliable, widely recognized store of value; that it is a reliable hedge against inflation or economic downturns; or that it will be useful as currency during a potential societal collapse because of its so-called intrinsic value.
+There are a few reasons people invest in gold. They may think that it is a widely recognized store of value; that it is a reliable hedge against inflation or economic downturns; or that it will be useful as currency during a potential societal collapse because of its so-called intrinsic value.
 
 Unfortunately, gold is not a good store of value compared to stable currencies like the US dollar. It is a highly volatile asset that can lose value for long periods and has experienced no positive real return over its many centuries of use. Gold is not a reliable hedge against inflation. Its value sometimes increases when unexpected inflation occurs, and sometimes decreases. Crucially, the price does not _respond_ to inflation. For evidence and more information, you could [read](https://github.com/investindex/Advanced/blob/main/GoldenDilemma.pdf) [these](https://github.com/investindex/Advanced/blob/main/GoldenConstant.pdf) [papers](https://www.tandfonline.com/doi/pdf/10.1080/0015198X.2020.1817698) or watch videos [here](https://www.youtube.com/watch?v=ulgqlQWlPbo), [here](https://www.youtube.com/watch?v=_f0dns9fHFs&t=1347s), and [here](https://www.youtube.com/watch?v=UDHJh8CXTVQ&t=927s).
 
@@ -31,6 +31,18 @@ The section on gold above expressed the only application of cryptocurrency I wou
 ## Asset classes in _Reducing the Risk of Black Swans_
 
 Explanation incoming. Book link [here](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def).
+
+&nbsp;
+
+## Leveraged funds
+
+In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-curb-leveraged-etfs-1465205401) the creation of highly leveraged funds, and asset managers like Direxion and ProShares have since created well over 100 leveraged ETFs. Some of them were listed in the midst of the stock market's recovery from the 2008 financial crisis. This turned out to be impeccable timing, because the 2010s witnessed a spectacular bull market for US stocks, in particular tech stocks. In addition, interest rates have been low since 2009, minimizing the cost of borrowing money to lever up the returns. One of the most famous leveraged funds is TQQQ. It's based on QQQ, which tracks the tech-heavy Nasdaq 100 index. The fund uses derivatives to produce three times the daily returns of QQQ. If QQQ increases 1% tomorrow, TQQQ will increase by about 3%. If QQQ falls by 2%, TQQQ will fall by about 6%.
+
+From inception in February 2010 through the end of 2021, the average annualized return of TQQQ was [roughly 55%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TQQQ&allocation1_1=100&symbol2=QQQ&allocation2_2=100). An investor who bought shares at the end of Feb 2010 and sold at the end of Dec 2021 would've multiplied their money by about 179. These are eye-watering, brain-shattering, hair-on-fire returns. Who wouldn't want to invest in TQQQ?
+
+We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in March 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the explosion of the tech bubble in the early 2000s?
+
+Not only do options offer a different form of leverage, but they permit far more diversification than leveraged ETFs, which tend to be focused on very popular indices like the S&P 500 and the Nasdaq 100.
 
 &nbsp;
 
