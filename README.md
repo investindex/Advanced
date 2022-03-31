@@ -30,13 +30,15 @@ The section on gold above expressed the only application of cryptocurrency I wou
 
 ## Asset classes in _Reducing the Risk of Black Swans_
 
-Explanation incoming. Book link [here](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def).
+Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with imperfectly correlated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? Larry Swedroe's book _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_ seeks to answer this question.
+
+You can click the link to download the book. I won't elaborate a great deal because these asset classes are accessible only to high net worth investors or those who are clients of certain wealth management firms. They are also partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a very diversified portfolio with high expected return.
 
 &nbsp;
 
 ## Leveraged funds
 
-In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-curb-leveraged-etfs-1465205401) the creation of highly leveraged funds, and asset managers like Direxion and ProShares have since created well over 100 leveraged ETFs. Some of them were listed in the midst of the stock market's recovery from the 2008 financial crisis. This turned out to be impeccable timing, because the 2010s witnessed a spectacular bull market for US stocks, in particular tech stocks. In addition, interest rates have been low since 2009, minimizing the cost of borrowing money to lever up the returns. One of the most famous leveraged funds is TQQQ. It's named after QQQ, which tracks the tech-heavy Nasdaq 100 index. The fund uses derivatives to produce three times the daily returns of the Nasdaq 100. If QQQ increases 1% tomorrow, TQQQ will increase by about 3%. If QQQ falls by 2%, TQQQ will fall by about 6%.
+In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-curb-leveraged-etfs-1465205401) the creation of highly leveraged funds, and asset managers like Direxion and ProShares have since created well over 100 leveraged ETFs. Some of them were listed in the midst of the stock market's recovery from the 2008 financial crisis. This turned out to be impeccable timing, because the 2010s witnessed a spectacular bull market for US stocks, in particular tech stocks. In addition, interest rates have been low since 2009, minimizing the cost of borrowing money to lever up the returns. One of the most famous leveraged funds is [TQQQ](https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq/). It's named after QQQ, which tracks the tech-heavy Nasdaq 100 index. The fund uses derivatives to produce three times the daily returns of the Nasdaq 100. If QQQ increases 1% tomorrow, TQQQ will increase by about 3%. If QQQ falls by 2%, TQQQ will fall by about 6%.
 
 From inception in February 2010 through the end of 2021, the average annualized return of TQQQ was [roughly 55%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TQQQ&allocation1_1=100&symbol2=QQQ&allocation2_2=100). An investor who bought shares at the end of Feb 2010 and sold at the end of Dec 2021 would've multiplied their money by about 179. These are eye-watering, brain-shattering, hair-on-fire returns. Who wouldn't want to invest in TQQQ?
 
@@ -46,7 +48,9 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
 </p>
 
-Not only do options offer a different form of leverage, but they permit far more diversification than leveraged ETFs, which tend to be focused on very popular indices like the S&P 500 and the Nasdaq 100.
+From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down due to lack of assets. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
+
+An investor seeking high expected return _could_ allocate a small fraction of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. They also permit far more diversification than leveraged ETFs, which tend to be focused on very popular indices like the [S&P 500](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) and the Nasdaq 100.
 
 &nbsp;
 
