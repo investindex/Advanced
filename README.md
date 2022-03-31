@@ -42,6 +42,10 @@ From inception in February 2010 through the end of 2021, the average annualized 
 
 We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in March 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the explosion of the tech bubble in the early 2000s?
 
+<p align="center">
+<img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
+</p>
+
 Not only do options offer a different form of leverage, but they permit far more diversification than leveraged ETFs, which tend to be focused on very popular indices like the S&P 500 and the Nasdaq 100.
 
 &nbsp;
