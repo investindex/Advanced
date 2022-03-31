@@ -10,7 +10,7 @@ Click to skip to each section:
 
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
-* [Asset classes in _Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#asset-classes-in-reducing-the-risk-of-black-swans)
+* [Asset classes in _Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
 * [Leveraged funds](https://github.com/investindex/Advanced#leveraged-funds)
 * [Options](https://github.com/investindex/Advanced#options)
 
@@ -36,7 +36,7 @@ The section on gold above expressed the only application of cryptocurrency I wou
 
 &nbsp;
 
-## Asset classes in _Reducing the Risk of Black Swans_
+## _Reducing the Risk of Black Swans_
 
 Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with imperfectly correlated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, seeks to answer this question. You can click the link to download the book. I won't elaborate a great deal because these asset classes are accessible only to high net worth investors or those who are clients of certain wealth management firms. They are also partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a very diversified portfolio with high expected return.
 
@@ -80,7 +80,7 @@ But even an option whose strike price is greater than the market price has value
 
 ### Example
 
-Let’s make this more concrete. It’s November 2023, and we own shares of XY, but we’d also like to gain leverage on our expectation that XY’s share price will rise. So we buy call options on XY that expire on January 20, 2025. Let’s say the current share price of XY is $50. For reasons I’ll explain below, we want to buy an ITM option. So we check the price of XY call options expiring on January 20, 2025 with a strike price of $45. The [ask price](https://www.investopedia.com/terms/b/bid-askspread.asp) is $7.41, which refers to the price per share. To calculate the price per contract, we multiply by 100 to find that the price of buying a contract is $741.
+Let’s make this more concrete. It’s November 2023, and we own shares of XY, but we’d also like to gain leverage on our expectation that XY’s share price will rise. So we buy call options on XY that expire on January 20, 2025. Let’s say the current share price of XY is $50. For reasons I’ll explain below, we want to buy an in-the-money (ITM) option. So we check the price of XY call options expiring on January 20, 2025 with a strike price of $45. The [ask price](https://www.investopedia.com/terms/b/bid-askspread.asp) is $7.41, which refers to the price per share. To calculate the price per contract, we multiply by 100 to find that the price of buying a contract is $741.
 
 How much could we profit or lose from this option? Let’s say that by the expiration date, XY’s price has increased by 10% to $55. Our strike price is $45, so we exercise on the expiration date and buy 100 shares for $45. We sell them immediately for $55, making $10 per share and a total of $1,000. Our profit is $259: $1,000 minus the $741 premium. We can compare this to buying shares with the same amount of money: $741 of shares would’ve increased in value by 10% or $74.10.
 
@@ -96,6 +96,10 @@ This situation is exactly what the counterparty wants. They’re likely holding 
 
 ### Calculating the breakeven price
 
-Incoming.
+An important price you should be able to calculate before buying an option is the breakeven price. This is the price the underlying needs to reach by expiration for you to break even. In this case, our gains from an increase in the price of XY need to counterbalance the $741 premium. We paid $7.41 per share for the option with a strike price of $45 when XY's price was $50 per share. In order to break even, the price would need to rise to $45 + $7.41 = $52.41, which is a 4.82% increase from $50. Of course, at the breakeven price, we would've profited by investing in shares instead, so this doesn't account for the opportunity cost of buying an option instead of shares.
+
+The breakeven price is important not just for understanding a given option, but for comparing different options. If we buy an ITM option with a strike price of $45 while the market price is $50, that option is 10% ITM: (50-45)/50 = .1 = 10%. If we were to buy a 20% ITM option with a strike price of $40, the breakeven price would be significantly lower. The option would also face a much lower risk of expiring worthless. However, the premium would be much more expensive. In contrast, an at-the-money (ATM) option with a strike price of $50 would have a higher breakeven price than the option we chose. An OTM option with a strike price of $52 would be cheaper, but it would have a breakeven price that is higher still, so anyone who buys an OTM contract is betting on high returns for the underlying. Options that are deeper in the money are less risky; options that are further out of the money are riskier.
+
+For most investors who want to lever up by buying call options, I think it's sensible to buy long-term options with breakeven prices that anticipate modest returns, like the 10% ITM option with a breakeven increase of 4.82% and expiration in 14 months. Buying OTM options is very risky and can easily lead to major losses, including total loss.
 
 &nbsp;
