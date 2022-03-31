@@ -66,7 +66,7 @@ Options are a [derivative](https://www.investopedia.com/terms/d/derivative.asp),
 
 &nbsp;
 
-### Intro to options
+### Introduction to options
 
 Before explaining what options are, I think it will be useful to describe why we would consider using them. In the section on risk, we [discussed](https://github.com/investindex/Risk#two-broad-types-of-risk) the distinction between compensated and uncompensated risk. And in the section on building a stock portfolio, we [discussed](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting) how to systematically invest in riskier stocks in order to increase our expected return. This is a way of taking compensated risk, which is the kind of risk we want. But how could we take even more compensated risk than owning stock funds — which are already quite volatile — with the hope of greater long-term returns? Buying stock is a bet that the stock portfolio will have positive returns, and buying options is a way to make a more extreme bet that those shares will have positive returns. This is a form of [leverage](https://www.investopedia.com/terms/l/leverage.asp): a correct prediction can yield much greater gains, and an incorrect one can cause large losses.
 
@@ -139,6 +139,18 @@ So we can build a globally diversified portfolio with [SPY](https://www.ssga.com
 The explanation above described options as if the goal were to exercise them. An option is indeed valuable because of the owner's right to exercise it, but most people who buy an option don't exercise it — they sell it. Practically, you probably will not have enough money in your account to exercise a call option without selling your other assets. In the example above with XY, we bought a call option with a strike price of $45, which means that buying 100 shares would require $4,500. Rather than coming up with that much money, it usually makes more sense to simply sell the option before expiration (in that case, before market close on Jan 20 2025).
 
 Like applying for margin, you have to apply for option trading. Brokers distinguish between different types of option trades, based on how potentially risky the types of trades are. "Long calls" are a relatively low-risk strategy. Fidelity separates option trading into Levels 1 through 5, and to run this strategy you need Level 2. Schwab has Levels 0 through 3, and to run this strategy you need Level 1. 
+
+More incoming.
+
+&nbsp;
+
+### ETF call options or leveraged ETFs?
+
+We discussed above how we could build a diversified portfolio of ETF call options, perhaps VTI + EFA + VWO + IWN. Could we build a similar portfolio with leveraged ETFs? We could achieve 2x daily exposure to the S&P 500 ([SSO](https://www.proshares.com/our-etfs/leveraged-and-inverse/sso/)/[SPUU](https://www.direxion.com/product/daily-sp-500-bull-2x-etf)), developed ex-US markets ([EFO](https://www.proshares.com/our-etfs/leveraged-and-inverse/efo/)), and emerging markets ([EET](https://www.proshares.com/our-etfs/leveraged-and-inverse/eet/)). We could also achieve 3x daily exposure to the S&P 500 ([UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/)/[SPXL](https://www.direxion.com/product/daily-sp-500-bull-bear-3x-etfs)) and emerging markets ([EDC](https://www.direxion.com/product/daily-msci-emerging-markets-bull-bear-3x-etfs)), but not developed ex-US markets.
+
+There are no leveraged ETFs with small cap value exposure.
+
+The returns of leveraged ETFs are path-dependent, while the intrinsic value of an option is not.
 
 More incoming.
 
