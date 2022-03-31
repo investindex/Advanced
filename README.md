@@ -48,7 +48,7 @@ In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-c
 
 From inception in February 2010 through the end of 2021, the average annualized return of TQQQ was [roughly 55%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TQQQ&allocation1_1=100&symbol2=QQQ&allocation2_2=100). An investor who bought shares at the end of Feb 2010 and sold at the end of Dec 2021 would've multiplied their money by about 179. These are eye-watering, brain-shattering, hair-on-fire returns. Who wouldn't want to invest in TQQQ?
 
-We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in March 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the explosion of the tech bubble in the early 2000s?
+We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in March 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. (TQQQ fell by 69.9% during the COVID crash, but the market quickly recovered.) However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the explosion of the tech bubble in the early 2000s?
 
 <p align="center">
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
@@ -90,16 +90,41 @@ Let’s consider the potential downside of an option. Imagine that XY’s share 
 
 There are more ways to lose money with options than a total loss due to OTM expiration. Imagine that by expiration, XY has appreciated by only 2% to $51. We exercise the option, buying shares at $45 and selling at $51, netting $6 per share and a total of $600. But wait, we _paid_ $741 for this option! So we actually lost $141. Not only that, but if we had bought $741 of shares instead, we would’ve made $14.82 from price appreciation and some more from dividends.
 
-This situation is exactly what the counterparty wants. They’re likely holding 100 shares of XY for every contract they sell you. So they benefit from the price appreciation of XY, the dividends from XY, and from the $741 you paid them for the contract. They sell those 100 shares to you on the expiration date, but the ability to exercise the contract and make $600 is more than compensated by the $741 premium they received over a year prior. It would be very risky for the counterparty to not hold 100 shares per contract they sell, because they would otherwise be exposed to unlimited losses. Selling a call while you hold the underlying is known as selling a “covered call”.
+This situation is exactly what the counterparty wants. They’re likely holding 100 shares of XY for every contract they sell you. So they benefit from the price appreciation of XY, the dividends from XY, and from the $741 you paid them for the contract. They sell those 100 shares to you on the expiration date, but your ability to exercise the contract and make $600 is more than compensated by the $741 premium they received over a year prior. It would be very risky for the counterparty to not hold 100 shares per contract they sell, because they would otherwise be exposed to unlimited losses. Selling a call while you hold the underlying is known as selling a “covered call”.
 
 &nbsp;
 
 ### Calculating the breakeven price
 
-An important price you should be able to calculate before buying an option is the breakeven price. This is the price the underlying needs to reach by expiration for you to break even. In this case, our gains from an increase in the price of XY need to counterbalance the $741 premium. We paid $7.41 per share for the option with a strike price of $45 when XY's price was $50 per share. In order to break even, the price would need to rise to $45 + $7.41 = $52.41, which is a 4.82% increase from $50. Of course, at the breakeven price, we would've profited by investing in shares instead, so this doesn't account for the opportunity cost of buying an option instead of shares.
+An important price you should be able to calculate before buying an option is the breakeven price. This is the price the underlying needs to reach by expiration for you to break even. In this case, our gains from an increase in the price of XY need to counterbalance the $741 premium. We paid $7.41 per share for the option with a strike price of $45 when XY's price was $50 per share. In order to break even, the price would need to rise to $45 + $7.41 = $52.41, which is a 4.82% increase from $50. Of course, if the option expires at the breakeven price or slightly above, we would've profited more by investing in shares instead, so this doesn't account for the opportunity cost.
 
-The breakeven price is important not just for understanding a given option, but for comparing different options. If we buy an ITM option with a strike price of $45 while the market price is $50, that option is 10% ITM: (50-45)/50 = .1 = 10%. If we were to buy a 20% ITM option with a strike price of $40, the breakeven price would be significantly lower. The option would also face a much lower risk of expiring worthless. However, the premium would be much more expensive. In contrast, an at-the-money (ATM) option with a strike price of $50 would have a higher breakeven price than the option we chose. An OTM option with a strike price of $52 would be cheaper, but it would have a breakeven price that is higher still, so anyone who buys an OTM contract is betting on high returns for the underlying. Options that are deeper in the money are less risky; options that are further out of the money are riskier.
+The breakeven price is important not just for understanding a given option contract, but for comparing different option contracts. If we buy an ITM option with a strike price of $45 while the market price is $50, that option is 10% ITM: (50-45)/50 = .1 = 10%. If we were to buy a 20% ITM option with a strike price of $40, the breakeven price would be significantly lower. The option would also face a much lower risk of expiring worthless. However, the premium would be more expensive. In contrast, an at-the-money (ATM) option with a strike price of $50 would have a higher breakeven price than the option we chose. An OTM option with a strike price of $52 would be cheaper, but it would have a breakeven price that is higher still. So anyone who buys an OTM contract is betting on high returns for the underlying. Options that are deeper in the money are less risky and have higher premiums; options that are further out of the money are riskier and have lower premiums.
 
-For most investors who want to lever up by buying call options, I think it's sensible to buy long-term options with breakeven prices that anticipate modest returns, like the 10% ITM option with a breakeven increase of 4.82% and expiration in 14 months. Buying OTM options is very risky and can easily lead to major losses, including total loss.
+For most investors who want to lever up by buying call options, I think it's sensible to buy long-term options with breakeven prices that anticipate modest returns, like the 10% ITM option with a breakeven increase of 4.82% and expiration in 14 months. Buying OTM options is risky and can easily lead to major losses, including total loss.
+
+### Practical information
+
+Incoming.
+
+&nbsp;
+
+All sections:
+
+* [Cover page](https://github.com/investindex/Intro)
+* [Introduction to index funds](https://github.com/investindex/Index)
+* [Thinking about risk](https://github.com/investindex/Risk)
+* [Your psychology](https://github.com/investindex/Psychology)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Investing for retirement](https://github.com/investindex/Retirement)
+* [Building a stock portfolio](https://github.com/investindex/Portfolio)
+* [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
+* [Concerns for the small investor](https://github.com/investindex/Small)
+* [Concerns for the large investor](https://github.com/investindex/Large)
+* [Practical information for execution](https://github.com/investindex/Practical)
+* [Taxes](https://github.com/investindex/Taxes)
+* [Vocabulary and further resources](https://github.com/investindex/Vocab)
+* [Advanced topics](https://github.com/investindex/Advanced)
+
+&nbsp;
 
 &nbsp;
