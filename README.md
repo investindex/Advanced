@@ -10,7 +10,7 @@ Click to skip to each section:
 
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
-* [Asset classes in _Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
+* [_Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
 * [Leveraged funds](https://github.com/investindex/Advanced#leveraged-funds)
 * [Options](https://github.com/investindex/Advanced#options)
 
