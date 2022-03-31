@@ -56,7 +56,7 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 
 From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down due to lack of assets. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
 
-An investor seeking high expected return _could_ allocate a small fraction of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. They also permit far more diversification than leveraged ETFs, which tend to be focused on very popular indices like the [S&P 500](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) and the Nasdaq 100.
+An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. They also permit far more diversification than leveraged ETFs, which tend to be focused on very popular indices like the [S&P 500](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) and the Nasdaq 100.
 
 &nbsp;
 
