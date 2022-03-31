@@ -68,7 +68,9 @@ So what is an option? It’s a contract between you and another person, who is c
 
 For each call option contract we buy, we acquire the right to buy 100 shares of XY from the counterparty at an agreed-upon price anytime before an agreed-upon expiration date. The option has a cost, called the premium, because we pay the counterparty for these valuable rights. The agreed-upon price is an important aspect of the option, because being able to buy shares at a lower price makes the option more valuable. The agreed-upon price is called the "strike price". The expiration date is another important aspect, because a more distant expiration date gives XY more time to increase in value. At any time, the owner of an option can exercise it and buy 100 shares per contract from the counterparty at the strike price. They can also sell the option to someone else. In this example, XY is the "[underlying](https://www.investopedia.com/terms/u/underlying.asp)" because the value of the XY options are based on the price of XY.
 
-#### An option’s value
+&nbsp;
+
+### An option’s value
 
 How is the value of an option determined? Like any other security, the market decides on the prevailing price through negotiation between buyers and sellers. But as always, the characteristics of the security act as constraints. An option’s value is divided between intrinsic and extrinsic value. Intrinsic value is simple: if an option’s strike price is below the current market price, the option has intrinsic value. Let’s say the option’s strike price is $150 and the market price is $200. That means we can exercise the option, buy the shares at $150 and sell them at $200. The $50 profit would be multiplied by 100 shares per contract. That’s the nature of intrinsic value.
 
@@ -76,7 +78,7 @@ But even an option whose strike price is greater than the market price has value
 
 &nbsp;
 
-#### Example
+### Example
 
 Let’s make this more concrete. It’s November 2023, and we own shares of XY, but we’d also like to gain leverage on our expectation that XY’s share price will rise. So we buy call options on XY that expire on January 20, 2025. Let’s say the current share price of XY is $50. For reasons I’ll explain below, we want to buy an ITM option. So we check the price of XY call options expiring on January 20, 2025 with a strike price of $45. The [ask price](https://www.investopedia.com/terms/b/bid-askspread.asp) is $7.41, which refers to the price per share. To calculate the price per contract, we multiply by 100 to find that the price of buying a contract is $741.
 
@@ -90,7 +92,9 @@ There are more ways to lose money with options than a total loss due to OTM expi
 
 This situation is exactly what the counterparty wants. They’re likely holding 100 shares of XY for every contract they sell you. So they benefit from the price appreciation of XY, the dividends from XY, and from the $741 you paid them for the contract. They sell those 100 shares to you on the expiration date, but the ability to exercise the contract and make $600 is more than compensated by the $741 premium they received over a year prior. It would be very risky for the counterparty to not hold 100 shares per contract they sell, because they would otherwise be exposed to unlimited losses. Selling a call while you hold the underlying is known as selling a “covered call”.
 
-#### Calculating the breakeven price
+&nbsp;
+
+### Calculating the breakeven price
 
 Incoming.
 
