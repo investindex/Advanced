@@ -11,7 +11,7 @@ Click to skip to each section:
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
 * [_Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
-* [Real estate investment trusts]()
+* [Real estate investment trusts](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
 * [Leveraged funds](https://github.com/investindex/Advanced#leveraged-funds)
 * [Options](https://github.com/investindex/Advanced#options)
 
@@ -33,7 +33,7 @@ In my view, for most people there is one good reason to own gold: to protect you
 
 ## Cryptocurrency
 
-[Continued from above.]
+[Continued from the section above.]
 
 A USD stablecoin like [USD Coin](https://www.coinbase.com/usdc/) enables someone to own a cryptocurrency that is redeemable for USD, even if they lack access to financial institutions that would allow them to hold USD. A refugee fleeing their country with nothing but their [private key](https://www.investopedia.com/terms/p/private-key.asp) could convert USD Coin to [fiat currency](https://en.wikipedia.org/wiki/Fiat_money) once they arrived somewhere with banking institutions (or found someone willing to exchange cash for crypto). Ukrainian refugees fleeing to Poland [actually did this](https://www.cnbc.com/2022/03/23/ukrainian-flees-to-poland-with-2000-in-bitcoin-on-usb-drive.html) during the Russian invasion in February 2022, because banking access had been obstructed and many people had to flee without the money in their bank accounts. Poland has many Bitcoin ATMs, which allowed those without _any_ banking access in Poland to convert their cryptocurrency to cash.
 
@@ -103,7 +103,7 @@ How much could we profit or lose from this option? Let’s say that by the expir
 
 Note that we’re referring to XY’s _price_ and not its total return. An owner of the underlying receives dividends, whereas an owner of a call option does not. So if XY’s price increased by 10%, an investor in XY shares would’ve gained slightly more. Keep the lack of dividends in mind when considering possible returns of a call option.
 
-Let’s consider the potential downside of an option. Imagine that XY’s share price has fallen 16% to $42 by the expiration date. Because $42 is less than the strike price of $45, the option expires worthless. The loss would be the value of the contract we purchased: $741. Buying shares with the same $741 would have produced a loss of only $118.56 (minus dividends).
+Let’s consider the potential downside of an option. Imagine that XY’s share price has fallen 16% to $42 by the expiration date. Because $42 is less than the strike price of $45, the option expires worthless. The loss would be the value of the contract we purchased: $741. Buying shares with the same $741 would have produced a loss of only $118.56 (minus reinvested dividends).
 
 There are more ways to lose money with options than a total loss due to OTM expiration. Imagine that by expiration, XY has appreciated by only 2% to $51. We exercise the option, buying shares at $45 and selling at $51, netting $6 per share and a total of $600. But wait, we _paid_ $741 for this option! So we actually lost $141. Not only that, but if we had bought $741 of shares instead, we would’ve made $14.82 from price appreciation and some more from dividends. The $141 + $14.82 + dividends is an [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost): we would've profited by purchasing shares instead of an option.
 
@@ -125,9 +125,13 @@ For most investors who want to lever up by buying call options, I think it's sen
 
 Risk management with this approach to options is relatively simple. The first aspect is appropriate position sizing. Even for someone with a high risk tolerance and a 30-year time horizon, I don't recommend occupying more than 10-15% of your portfolio with options. In a portfolio with 90% stock funds and 10% ETF call options, the options will generate at least as much volatility as the stock funds despite being a much smaller portion. Exceeding 20% of your portfolio would be very risky, unless you're buying deep ITM options.
 
-In addition to position sizing, rebalancing is crucial. If the underlying securities perform very well in a given year, your options could expand from an initial 10% to 20% or more of the portfolio. This expansion could keep occurring for years in a long bull market, but you should not allow it. There is no way to reliably predict when it will happen, but eventually the underlying ETFs will experience a deep, prolonged drawdown. Their prices will fall below the strike price of your options, and the options will expire worthless.
+In addition to position sizing, rebalancing is crucial. If the underlying securities perform very well in a given year, your options are likely to expand to a larger part of the portfolio. This expansion could keep occurring for years in a long bull market, but you should not allow it. There is no way to reliably predict when it will happen, but eventually the underlying ETFs will experience a deep, prolonged drawdown. Their prices will fall below the strike prices of your options, and the options will expire worthless. This is why, regardless of risk tolerance, no one should ever invest 100% of their portfolio in options (or highly leveraged ETFs, as we saw with TQQQ and the tech bubble).
 
-More incoming.
+Disciplined rebalancing needs to occur when options thrive and when they die. In a spectacular year when your options expand from 10% to 25% of your portfolio, it's important to restrain yourself. When you sell the options, do not reinvest all that money into more options. Rebalance so that 10% of the value of your portfolio is reinvested in options, and the rest into your stock funds (assuming 10% is your intended allocation). Otherwise, the allocation to options could keep expanding until one year, your options finally expire worthless and blow up a third of your portfolio, erasing all the gains. Rebalancing into stock funds is a way to secure those gains.
+
+On the other hand, when your options expire worthless during a bear market, it's important not to let the disappointment and regret deter you from continuing the strategy. If all your options expired worthless, rebalance them from 0% back to 10%. If you rebalance correctly year after year, the allocation to options will occasionally go to zero, but your portfolio will be much larger in the long run.
+
+Most people do not have the risk tolerance or the cold discipline for this approach. Carefully consider whether you have the right disposition.
 
 &nbsp;
 
