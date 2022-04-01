@@ -11,6 +11,7 @@ Click to skip to each section:
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
 * [_Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
+* [Real estate investment trusts]()
 * [Leveraged funds](https://github.com/investindex/Advanced#leveraged-funds)
 * [Options](https://github.com/investindex/Advanced#options)
 
@@ -43,6 +44,12 @@ This is the only application of cryptocurrency I would currently recommend to pe
 ## _Reducing the Risk of Black Swans_
 
 Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with imperfectly correlated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, seeks to answer this question. You can click the link to download the book. I won't elaborate a great deal because these asset classes are accessible only to high net worth investors or those who are clients of certain wealth management firms. They are also partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a very diversified portfolio with high expected return.
+
+&nbsp;
+
+## Real estate investment trusts (REITs)
+
+Just watch [this video](https://www.youtube.com/watch?v=IzK5x3LlsUU) by Ben Felix on REITs.
 
 &nbsp;
 
