@@ -65,7 +65,7 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
 </p>
 
-From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down due to lack of assets. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
+From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
 
 An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison.
 
@@ -165,17 +165,19 @@ More incoming.
 
 ### ETF call options or leveraged ETFs?
 
+This section is disorganized for now. More incoming.
+
 We discussed above how we could build a portfolio of ETF call options, perhaps VTI + EFA + VWO + IWN. Could we build a similar portfolio with leveraged ETFs? We could achieve 2x daily exposure to the S&P 500 ([SSO](https://www.proshares.com/our-etfs/leveraged-and-inverse/sso/)/[SPUU](https://www.direxion.com/product/daily-sp-500-bull-2x-etf)), developed ex-North America markets ([EFO](https://www.proshares.com/our-etfs/leveraged-and-inverse/efo/)), and emerging markets ([EET](https://www.proshares.com/our-etfs/leveraged-and-inverse/eet/)). We could also achieve 3x daily exposure to the S&P 500 ([UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/)/[SPXL](https://www.direxion.com/product/daily-sp-500-bull-bear-3x-etfs)) and emerging markets ([EDC](https://www.direxion.com/product/daily-msci-emerging-markets-bull-bear-3x-etfs)), but not developed ex-US markets.
 
-There are no leveraged ETFs with small cap value exposure. Since small cap value adds a great deal of diversification to a cap-weighted portfolio, this is a significant drawback. But let's focus on the question only for cap-weighted equities: are call options or leveraged ETFs a better way to increase compensated risk?
+There are no LETFs with small cap value exposure. Since small cap value adds a great deal of diversification to a cap-weighted portfolio, this is a significant drawback. But let's focus on the question only for cap-weighted equities: are call options or LETFs a better way to increase compensated risk?
 
-Leveraged ETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive.
+Investors in LETFs need to understand that these funds are not magical machines that automatically multiply the daily returns of an index. The leverage depends on derivatives like total return swaps that are facilitated by banks who partner with the ETF issuers. The banks that administer total return swaps can set the terms of the arrangement, including margin requirements. LETFs are most likely to be shut down due to financial stress at exactly the wrong time, when the market is dropping and leveraged funds are suffering apocalyptic drawdowns. So following [this advice](https://seekingalpha.com/article/4464730-pricing-of-leveraged-etf-decay-a-different-approach) is a good idea: "avoid, at all costs, issuers with poor ratings and small market caps not backed by substantial parents with deep pockets." During the 2020 COVID crash, a number of LETFs [were liquidated](https://www.nasdaq.com/articles/etf-closures-outnumber-launches-2020-04-20), including funds managed by the largest LETF issuers, ProShares and Direxion. The quoted warning is crucial to understand.
 
-With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With leveraged ETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x daily leverage).
+LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive.
 
-The returns of a leveraged ETF are path-dependent, while the intrinsic value of an option is not.
+With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x).
 
-More incoming.
+The returns of a LETF are path-dependent, while the intrinsic value of an option is not.
 
 &nbsp;
 
