@@ -181,7 +181,7 @@ LETFs have a lower minimum cost of entry: the share price. Long-dated call optio
 
 With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x).
 
-The returns of a LETF are path-dependent, while the intrinsic value of an option is not.
+The returns of an LETF are path-dependent, while the intrinsic value of an option is not. That is, different degrees of volatility for the index an LETF is leveraging lead to different returns. Higher volatility of an index produces lower LETF returns.
 
 &nbsp;
 
