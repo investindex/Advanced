@@ -67,7 +67,7 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 
 From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
 
-An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison.
+An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison, which you should read before you consider investing in leveraged ETFs.
 
 &nbsp;
 
@@ -174,6 +174,8 @@ Investors in LETFs need to understand that these funds are not magical machines 
 The quoted warning is crucial to understand. First, an LETF’s issuer should have the ability to meet increased margin requirements (i.e., fork over cash) during market crashes. Given the current offerings, I would be reluctant to invest in highly leveraged ETFs sponsored by anyone other than ProShares or Direxion. Second, the fund should have large AUM. During the 2020 COVID crash, a number of LETFs [were liquidated](https://www.nasdaq.com/articles/etf-closures-outnumber-launches-2020-04-20), including funds managed by ProShares and Direxion. They were unwilling to save some of their smaller funds that were insufficiently profitable (or perhaps not profitable at all). And the COVID crash was not nearly the worst case scenario for LETFs: it was brief and witnessed only a 35% drawdown for US stocks. Given the recent inception of LETFs, they have yet to endure a long bear market where the stock market is cut in half, like those in 1973-74, 2000-02, or 2007-09. How many LETFs will be shut down during the next crisis?
 
 With these criteria, the only LETFs whose durability I am fairly confident in are those with billions of AUM. Among those in the list above, the only funds that qualify are S&P 500 2x and 3x funds: [SSO](https://www.proshares.com/our-etfs/leveraged-and-inverse/sso/), [UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/), and [SPXL](https://www.direxion.com/product/daily-sp-500-bull-bear-3x-etfs). During bear markets, nervous investors pull their money out of equity funds. So LETFs with even greater losses than the market will undoubtedly lose investors during a crash, but these three funds have AUM to spare.
+
+If you accept what I've stated so far, this implies that building a diversified equity portfolio with LETFs is not possible, at least not without accepting the liquidation risk of less mainstream funds.
 
 LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive.
 
