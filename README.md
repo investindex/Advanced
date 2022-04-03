@@ -67,7 +67,7 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 
 From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
 
-An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison, which you should read before you consider investing in leveraged ETFs.
+An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
 
 &nbsp;
 
@@ -182,6 +182,8 @@ LETFs have a lower minimum cost of entry: the share price. Long-dated call optio
 With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x).
 
 The returns of an LETF are path-dependent, while the intrinsic value of an option is not. That is, different degrees of volatility for the index an LETF is leveraging lead to different returns. Higher volatility of an index produces lower LETF returns.
+
+Discuss [Hedgefundie portfolio](https://www.optimizedportfolio.com/hedgefundie-adventure/): roughly 50% [UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) + roughly 50% [TMF](https://www.direxion.com/product/daily-20-year-treasury-bull-bear-3x-etfs).
 
 &nbsp;
 
