@@ -190,7 +190,7 @@ With these criteria, the only LETFs whose durability I am fairly confident in ar
 
 If you accept what I've stated so far, this implies that building a diversified equity portfolio with LETFs is not possible (without accepting the liquidation risk of less mainstream funds). Options do not carry any similar risk: counterparty risk is borne by the [Options Clearing Corporation](https://www.investopedia.com/terms/o/occ.asp), so your option contract is sound regardless of economic distress.
 
-LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive.
+LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive, and there is no way to buy less expensive contracts that control fewer than 100 shares.
 
 With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x).
 
