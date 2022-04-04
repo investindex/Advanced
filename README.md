@@ -75,6 +75,15 @@ An investor seeking high expected return _could_ allocate a __small fraction__ o
 
 Options are a [derivative](https://www.investopedia.com/terms/d/derivative.asp), which means they derive their value from the price of an underlying security, like a stock or an ETF. They are complex — much harder to understand than a stock or bond fund. So I don't expect a reader to feel like they have a complete understanding of how to invest in options after reading the section below. Before or after reading the written information, it will help to watch videos. These [two](https://www.youtube.com/watch?v=7PM4rNDr4oI) [videos](https://www.youtube.com/watch?v=ZJjRnKpwDyw) are detailed tutorials on how options work. Combining these with the written suggestions below will help with digesting this dense material. The YouTube channel [InTheMoney](https://www.youtube.com/channel/UCfMiRVQJuTj3NpZZP1tKShQ/videos) is a good resource on options in general, and his outro music is hypnotic. Understanding options is not easy and will require multiple hours of effort to reach a point at which you can think about how to include them in your portfolio.
 
+* [Introduction to options](https://github.com/investindex/Advanced#introduction-to-options)
+* [An option’s value](https://github.com/investindex/Advanced#an-options-value)
+* [Example](https://github.com/investindex/Advanced#example)
+* [Calculating the breakeven price](https://github.com/investindex/Advanced#calculating-the-breakeven-price)
+* [Risk management](https://github.com/investindex/Advanced#risk-management)
+* [Which ETFs?](https://github.com/investindex/Advanced#which-etfs)
+* [Practical information](https://github.com/investindex/Advanced#practical-information)
+* [ETF call options or leveraged ETFs?](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs)
+
 &nbsp;
 
 ### Introduction to options
