@@ -116,9 +116,9 @@ Let’s consider the potential downside of an option. Imagine that XY’s share 
 
 There are more ways to lose money with options than a total loss due to OTM expiration. Imagine that by expiration, XY has appreciated by only 2% to $51. We exercise the option, buying shares at $45 and selling at $51, netting $6 per share and a total of $600. But wait, we _paid_ $741 for this option! So we actually lost $141. Not only that, but if we had bought $741 of shares instead, we would’ve made $14.82 from price appreciation and some more from dividends. The $141 + $14.82 + dividends is an [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost): we would've profited by purchasing shares instead of an option.
 
-Let's dissect how the option is valued in this last example. The premium was $741 and the option at that time had $500 of intrinsic value: $50 - $45 = $5 per share, and we multiply by 100 shares. This implies that it had $741 - $500 = $241 of extrinsic value. The option _gained_ intrinsic value by expiration: $51 - $45 = $6 per share, giving it an intrinsic value of $600. But because it was the day of expiration, the option had no extrinsic value remaining. Even though intrinsic value increased while we held the option, we lost money because extrinsic value decreased by a greater amount.
-
 The last situation is good for the counterparty. They’re likely holding 100 shares of XY for every contract they sell you. So they benefit from the price appreciation of XY, the dividends, and the $741 premium you paid for the contract. They sell those 100 shares to you at a discounted price when you exercise, but your ability to buy shares at $45 and make $600 is more than compensated by the $741 premium they received over a year prior. It would be very risky for the counterparty to not hold 100 shares per contract they sell, because they would otherwise be exposed to unlimited losses. Selling a call while you hold the underlying is known as selling a covered call.
+
+Let's dissect how the option is valued in this last example. The premium was $741 and the option at that time had $500 of intrinsic value: $50 - $45 = $5 per share, and we multiply by 100 shares. This implies that it had $741 - $500 = $241 of extrinsic value. The option _gained_ intrinsic value by expiration: $51 - $45 = $6 per share, giving it an intrinsic value of $600. But because it was the day of expiration, the option had no extrinsic value remaining. Even though intrinsic value increased while we held the option, we lost money because extrinsic value decreased by a greater amount. In an alternative example where XY reached a price of $51 three months before expiration, we could've decided to sell the option for more than $600. The option's extrinsic value would have been greater than zero, reflecting the potential for more growth before expiration.
 
 &nbsp;
 
@@ -170,7 +170,7 @@ When trading options, the possible actions are not just "buy" and "sell". They a
 
 Like applying for margin, you have to apply for option trading. Brokers distinguish between different types of option trades, based on how potentially risky the types of trades are. Long calls are a relatively low-risk strategy. Fidelity separates option trading into Levels 1 through 5, and to run this strategy you need Level 2. Schwab has Levels 0 through 3, and to run this strategy you need Level 1.
 
-More incoming: automatic exercise after end of day on expiration date; automatic selling if not enough cash in account; when to exercise an option.
+More incoming: automatic exercise after end of day on expiration date; automatic selling if not enough cash in account; when to exercise an option; rolling an option by selling and buying simultaneously.
 
 &nbsp;
 
