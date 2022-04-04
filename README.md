@@ -59,7 +59,7 @@ In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-c
 
 From inception in February 2010 through the end of 2021, the average annualized return of TQQQ was [roughly 55%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TQQQ&allocation1_1=100&symbol2=QQQ&allocation2_2=100). An investor who bought shares at the end of Feb 2010 and sold at the end of Dec 2021 would've multiplied their money by about 179. These are eye-watering, brain-shattering, hair-on-fire returns. Who wouldn't want to invest in TQQQ?
 
-We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. (TQQQ fell by 69.9% during the COVID crash, but the market quickly recovered.) However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the implosion of the tech bubble in the early 2000s?
+We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. (TQQQ fell by 69.9% during the COVID crash, but the market quickly recovered.) However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the implosion of the tech bubble in the early 2000s?<sup id="fn1">[[1]](#f1)</sup>
 
 <p align="center">
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
@@ -67,7 +67,7 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 
 From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
 
-An investor seeking high expected return _could_ allocate a __small fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
+An investor seeking high expected return _could_ allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
 
 &nbsp;
 
@@ -116,7 +116,7 @@ Let’s consider the potential downside of an option. Imagine that XY’s share 
 
 There are more ways to lose money with options than a total loss due to OTM expiration. Imagine that by expiration, XY has appreciated by only 2% to $51. We exercise the option, buying shares at $45 and selling at $51, netting $6 per share and a total of $600. But wait, we _paid_ $741 for this option! So we actually lost $141. Not only that, but if we had bought $741 of shares instead, we would’ve made $14.82 from price appreciation and some more from dividends. The $141 + $14.82 + dividends is an [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost): we would've profited by purchasing shares instead of an option.
 
-The last situation is good for the counterparty. They’re likely holding 100 shares of XY for every contract they sell you. So they benefit from the price appreciation of XY, the dividends, and the $741 premium you paid for the contract. They sell those 100 shares to you at a discounted price when you exercise, but your ability to buy shares at $45 and make $600 is more than compensated by the $741 premium they received over a year prior. It would be very risky for the counterparty to not hold 100 shares per contract they sell, because they would otherwise be exposed to unlimited losses. Selling a call while you hold the underlying is known as selling a covered call.
+The last situation is good for the counterparty. They’re likely holding 100 shares of XY for every contract they sell you. So they benefit from the dividends and the $741 premium you paid for the contract. They sell those 100 shares to you at a discounted price when you exercise, but your ability to buy shares at $45 and make $600 is more than compensated by the $741 premium they received over a year prior. It would be very risky for the counterparty to not hold 100 shares per contract they sell, because they would otherwise be exposed to unlimited losses. Selling a call while you hold the underlying is known as selling a covered call.<sup id="fn2">[[2]](#f2)</sup>
 
 Let's dissect how the option is valued in this last example. The premium was $741 and, when we purchased it, the option had $500 of intrinsic value: $50 - $45 = $5 per share, and we multiply by 100 shares. This implies that it had $741 - $500 = $241 of extrinsic value. The option _gained_ intrinsic value by expiration: $51 - $45 = $6 per share, giving it an intrinsic value of $600. But because it was the day of expiration, the option had no extrinsic value remaining. Even though intrinsic value increased while we held the option, we lost money because extrinsic value decreased by a greater amount. We can imagine an alternative example where XY reached a price of $51 three months before expiration. At that time, we could decide to sell the option for more than $600. We know the option's extrinsic value would be greater than zero, because it reflects the potential for more growth in the three months before expiration.
 
@@ -214,6 +214,32 @@ All sections:
 * [Taxes](https://github.com/investindex/Taxes)
 * [Vocabulary and further resources](https://github.com/investindex/Vocab)
 * [Advanced topics](https://github.com/investindex/Advanced)
+
+&nbsp;
+
+&nbsp;
+
+Footnotes:
+
+<sup id="f1"> 1 </sup> There will be a footnote here soon. [↩](#fn1)
+
+&nbsp;
+
+<sup id="f2"> 2 </sup> Let's consider what the counterparty wants when they sell (AKA write) a covered call. An important feature of selling a covered call is that once the price exceeds the strike price, the option writer is not affected by further increases in price. If the price fell to $45 by expiration, their profit would be dividends plus $241 ($741 premium - $500 from holding 100 shares). They don't have to sell shares to the option holder because the option expired exactly ATM with no value. If the price increased to $60, their profit would be dividends plus $241 ($741 premium + $1000 from holding 100 shares - $1500 from selling shares at the strike price). However, if the price fell below the strike price of $45, the option writer's profit would diminish below dividends plus $241 and would eventually become negative.
+
+What's the significance of the breakeven price for the option writer? Assuming they hold 100 shares, the breakeven price of $52.41 is the point above which they would've profited _more_ by not selling the call. They may not directly lose money if the price jumps to $60, but they'll wish they hadn't surrendered the upside to the option holder by selling the call. In addition, the breakeven price for the option writer will never be exactly the same as the breakeven price for the option holder, due to the bid-ask spread. When the option holder paid a $7.41 premium per share, the option writer may have received $7.10 per share. So they would be indifferent to any price at expiration between $45 and $52.10. Prices below $45 would make the covered call less profitable or unprofitable. Above $52.10, they would wish they hadn't sold the call.
+
+[↩](#fn2)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
