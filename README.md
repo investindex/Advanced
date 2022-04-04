@@ -164,11 +164,11 @@ The explanation above described options as if the goal were to exercise them. An
 
 You don't have to wait until the day of expiration to sell an option. As I mentioned above, options with closer expiration dates tend to be more liquid, so waiting until expiration is within a week will probably grant you the smallest bid-ask spread. You could also roll the expiration dates much sooner. For example, we bought the XY option in November 2023, 14 months before expiration. We could sell it three months before expiration in October 2024 and roll to an XY call option expiring on Jan 20 2026. Neither is inherently better, but rolling before the final month avoids the comparatively rapid decay of extrinsic value that tends to occur as expiration approaches.
 
-When trading options, the possible actions are not just "buy" and "sell". They are "buy to open", "buy to close", "sell to open", and "sell to close". The strategy discussed above is called a "long call", and for that you need only two actions: "buy to open" when you buy the option and open the position, then "sell to close" when you sell the option. "Exercise" is a fifth possible action and will close a long call position but, as mentioned, it's rare that this is appropriate. Some brokers make it hard to exercise because they don't want people to unwittingly squander the extrinsic value of the option.
+When trading options, the possible actions are not just "buy" and "sell". They are "buy to open", "buy to close", "sell to open", and "sell to close". The strategy discussed above is called a "long call", and for that you need only two actions: "buy to open" when you buy the option and open the position, then "sell to close" when you sell the option. "Exercise" is a fifth possible action and will close a long call position but, as mentioned, it's rare that this is appropriate. Some brokers make it hard to exercise because they don't want people to unwittingly squander the extrinsic value of the option. If you plan to exercise, ensure that you find out in advance exactly how to exercise an option with your broker.
 
 Like applying for margin, you have to apply for option trading. Brokers distinguish between different types of option trades, based on how potentially risky the types of trades are. Long calls are a relatively low-risk strategy. Fidelity separates option trading into Levels 1 through 5, and to run this strategy you need Level 2. Schwab has Levels 0 through 3, and to run this strategy you need Level 1.
 
-More incoming.
+More incoming: automatic exercise after end of day on expiration date; automatic selling if not enough cash in account; when to exercise an option.
 
 &nbsp;
 
