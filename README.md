@@ -170,6 +170,8 @@ When trading options, the possible actions are not just "buy" and "sell". They a
 
 Like applying for margin, you have to apply for option trading. Brokers distinguish between different types of option trades, based on how potentially risky the types of trades are. Long calls are a relatively low-risk strategy. Fidelity separates option trading into Levels 1 through 5, and to run this strategy you need Level 2. Schwab has Levels 0 through 3, and to run this strategy you need Level 1.
 
+While most brokers have eliminated commissions for stocks and ETFs, each purchase or sale of an option has a commission of $0.65 per contract. This is negligible compared to the price of any long-dated option.
+
 More incoming: automatic exercise after end of day on expiration date; automatic selling if not enough cash in account; when to exercise an option; rolling an option by selling and buying simultaneously.
 
 &nbsp;
@@ -193,6 +195,8 @@ LETFs have a lower minimum cost of entry: the share price. Long-dated call optio
 With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x).
 
 The returns of an LETF are path-dependent, while the intrinsic value of an option is not. That is, different degrees of volatility for the index an LETF is leveraging lead to different returns. Higher volatility of an index produces lower LETF returns.
+
+You could combine the two approaches and buy call options on LETFs. But let's not get crazy.
 
 Discuss [Hedgefundie portfolio](https://www.optimizedportfolio.com/hedgefundie-adventure/): roughly 50% [UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) + roughly 50% [TMF](https://www.direxion.com/product/daily-20-year-treasury-bull-bear-3x-etfs).
 
