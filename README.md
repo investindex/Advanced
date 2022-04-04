@@ -188,7 +188,7 @@ The quoted warning is crucial to understand. First, an LETF’s issuer should ha
 
 With these criteria, the only LETFs whose durability I am fairly confident in are those with billions of AUM. Among the list of seven funds above, the only funds that qualify are S&P 500 2x and 3x funds: [SSO](https://www.proshares.com/our-etfs/leveraged-and-inverse/sso/), [UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/), and [SPXL](https://www.direxion.com/product/daily-sp-500-bull-bear-3x-etfs). During bear markets, nervous investors pull their money out of equity funds. So LETFs with even greater losses than the market will undoubtedly lose investors during a crash, but these three funds have AUM to spare.
 
-If you accept what I've stated so far, this implies that building a diversified equity portfolio with LETFs is not possible (without accepting the liquidation risk of less mainstream funds).
+If you accept what I've stated so far, this implies that building a diversified equity portfolio with LETFs is not possible (without accepting the liquidation risk of less mainstream funds). Options do not carry any similar risk: counterparty risk is borne by the [Options Clearing Corporation](https://www.investopedia.com/terms/o/occ.asp), so your option contract is sound regardless of economic distress.
 
 LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive.
 
