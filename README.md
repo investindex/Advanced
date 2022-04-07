@@ -233,7 +233,7 @@ To calculate the return of a triple-leveraged fund on a single day given its ind
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Had an investor done the same, but sold only two months later at the end of February 2022, the value would've fallen by 36.9%, making the total multiplier [113](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=2&endYear=2022&lastMonth=2&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TQQQ&allocation1_1=100&symbol2=QQQ&allocation2_2=100) instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. [↩](#fn2)
+<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on Mar 14 2022, the value would've fallen by 52.1%, making the total multiplier 86 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. [↩](#fn2)
 
 &nbsp;
 
