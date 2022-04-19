@@ -51,7 +51,7 @@ Finding imperfectly correlated assets is the heart of [diversification](https://
 
 Watch [this video](https://www.youtube.com/watch?v=IzK5x3LlsUU) by Ben Felix on REITs.
 
-The best argument I know of for holding REITs is that they are very tax-inefficient. This must be priced in, so overweighting them in a tax-advantaged account could be expected to lead to higher returns, because you would be utterly indifferent to taxable distributions. This is argued [here](https://mymoneywizard.com/reits-in-roth-ira-loophole/).
+The best argument for holding REITs is that they are very tax-inefficient. This must be priced in, so overweighting them in a tax-advantaged account could be expected to lead to higher returns, because you would be utterly indifferent to taxable distributions. This is argued [here](https://mymoneywizard.com/reits-in-roth-ira-loophole/). I recommend against overweighting REITs in a taxable account.
 
 Both Avantis and DFA have real estate ETFs: [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) (global) and [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) (US).
 
