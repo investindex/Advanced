@@ -53,6 +53,8 @@ Watch [this video](https://www.youtube.com/watch?v=IzK5x3LlsUU) by Ben Felix on 
 
 The best argument I know of for holding REITs is that they are very tax-inefficient. This must be priced in, so overweighting them in a tax-advantaged account could be expected to lead to higher returns, because you would be utterly indifferent to taxable distributions. This is argued [here](https://mymoneywizard.com/reits-in-roth-ira-loophole/).
 
+Both Avantis and DFA have US real estate ETFs: [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) and [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf).
+
 &nbsp;
 
 ## Leveraged funds
