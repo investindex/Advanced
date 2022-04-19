@@ -49,7 +49,9 @@ Finding imperfectly correlated assets is the heart of [diversification](https://
 
 ## Real estate investment trusts (REITs)
 
-Just watch [this video](https://www.youtube.com/watch?v=IzK5x3LlsUU) by Ben Felix on REITs.
+Watch [this video](https://www.youtube.com/watch?v=IzK5x3LlsUU) by Ben Felix on REITs.
+
+The best argument I know of for holding REITs is that they are very tax-inefficient. This must be priced in, so overweighting them in a tax-advantaged account could be expected to lead to higher returns, because you would be utterly indifferent to taxable distributions. This is argued [here](https://mymoneywizard.com/reits-in-roth-ira-loophole/).
 
 &nbsp;
 
