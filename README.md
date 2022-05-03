@@ -55,6 +55,8 @@ The best argument for holding REITs is that they are very tax-inefficient. This 
 
 Both Avantis and DFA have real estate ETFs: [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) (global) and [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) (US).
 
+The long-term, high-risk portfolio suggested in the fund section was: 40% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 17.5% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 7.5% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7.5% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html).
+
 &nbsp;
 
 ## Leveraged funds
