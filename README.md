@@ -63,6 +63,10 @@ We also discussed Alpha Architect products in [that section](https://github.com/
 
 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 15% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 6% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html)
 
+In a taxable account, REITs should be eliminated:
+
+20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 16% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 7% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 9% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 10% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 8% [IVAL](https://etfsite.alphaarchitect.com/ival/)
+
 &nbsp;
 
 ## Leveraged funds
