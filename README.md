@@ -55,6 +55,8 @@ The best argument for holding REITs is that they are very tax-inefficient. This 
 
 Both Avantis and DFA have real estate ETFs: [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) (global) and [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) (US).
 
+&nbsp;
+
 The long-term, high-risk portfolio suggested in the [fund section](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) was:
 
 40% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 17.5% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 7.5% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7.5% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)
@@ -67,11 +69,13 @@ or
 
 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 15% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 6% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 7% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf)
 
+&nbsp;
+
 In a taxable account, REIT funds should be eliminated:
 
 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 16% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 7% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 9% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 10% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 8% [IVAL](https://etfsite.alphaarchitect.com/ival/)
 
-These portfolios have a strong value tilt and their returns will sometimes deviate greatly from the market (VT). In my view, the most disposable fund is RFV if someone wanted to cut only one. But it diversifies implementation beyond Avantis and Alpha Architect and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL. Someone with a large account could also invest in Avantis and DFA funds instead of picking only one of them. They could split the above allocation to AVUV between AVUV and DFSV, and do the same with AVDV/DISV, AVIV/DFIV, and AVES/DFEV.
+These portfolios have a strong value tilt and their returns will sometimes deviate greatly from the market (VT). In my view, the most disposable fund is RFV if someone wanted to cut only one. But it diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL. Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the above allocation to AVUV or DFSV between the two, and do the same with AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not nearly as similar, because AVRE is a global fund and DFAR is a US fund.
 
 &nbsp;
 
