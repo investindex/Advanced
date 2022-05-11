@@ -265,7 +265,7 @@ To calculate the return of a triple-leveraged fund on a single day given its ind
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on Mar 14 2022, the value would've fallen by 52.1%, making the total multiplier 86 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. [↩](#fn2)
+<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on May 11 2022, the value would've fallen by 65.4%, making the total multiplier 62 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. [↩](#fn2)
 
 &nbsp;
 
