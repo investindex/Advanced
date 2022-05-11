@@ -81,7 +81,7 @@ or
 
 &nbsp;
 
-These portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). In my view, the most disposable fund is RFV, but it diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL. Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the above allocation to AVUV or DFSV between the two, and do the same with AVLV/DFUV, AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, AVRE's portfolio gives over two-thirds of weight to the US.
+These portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). In my view, the most disposable fund is RFV, but it diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL. Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the allocation to AVUV or DFSV between the two, and do the same with AVLV/DFUV, AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, AVRE's portfolio gives over two-thirds of weight to the US.
 
 &nbsp;
 
