@@ -67,7 +67,7 @@ We also [discussed](https://github.com/investindex/Fund/blob/main/README.md#beyo
 
 or
 
-20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 15% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 6% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 7% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf)
+20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 15% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 6% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 10% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 7% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf)
 
 &nbsp;
 
@@ -77,11 +77,11 @@ In a taxable account, REIT funds should be eliminated:
 
 or
 
-20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 16% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 7% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 9% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 10% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 8% [IVAL](https://etfsite.alphaarchitect.com/ival/)
+20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 16% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 7% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 10% [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 10% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 9% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 10% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 10% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 8% [IVAL](https://etfsite.alphaarchitect.com/ival/)
 
 &nbsp;
 
-These portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). In my view, the most disposable fund is RFV, but it diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL. Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the above allocation to AVUV or DFSV between the two, and do the same with AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, AVRE's portfolio gives nearly 70% of weight to the US.
+These portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). In my view, the most disposable fund is RFV, but it diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL. Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the above allocation to AVUV or DFSV between the two, and do the same with AVLV/DFUV, AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, AVRE's portfolio gives over two-thirds of weight to the US.
 
 &nbsp;
 
