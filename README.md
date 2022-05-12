@@ -234,6 +234,10 @@ Discuss [Hedgefundie portfolio](https://www.optimizedportfolio.com/hedgefundie-a
 
 &nbsp;
 
+[Click here to return to the beginning — Cover page](https://github.com/investindex/Intro)
+
+&nbsp;
+
 All sections:
 
 * [Cover page](https://github.com/investindex/Intro)
