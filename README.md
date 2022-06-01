@@ -96,10 +96,14 @@ From inception in February 2010 through the end of 2021, the average annualized 
 We don't have to move into wild hypotheticals to see how a triple-leveraged fund can be hazardous. It's notable that TQQQ was fortunate enough to incept in 2010, meaning that so far it has never experienced a major, prolonged drawdown for US stocks. (TQQQ fell by 69.9% during the COVID crash, but the market quickly recovered.) However, QQQ was created in March 1999. What if we simply back up the clock and infer the returns of TQQQ from QQQ? What would have happened during the implosion of the tech bubble in the early 2000s?<sup id="fn3">[[3]](#f3)</sup>
 
 <p align="center">
-<img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
+<img src="https://github.com/investindex/Advanced/blob/main/TQQQ%20crash.png" width="631" height="540"/>
 </p>
 
 From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
+
+<p align="center">
+<img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
+</p>
 
 An investor seeking high expected return _could_ allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
 
