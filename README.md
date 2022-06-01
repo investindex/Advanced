@@ -279,7 +279,7 @@ To calculate the return of a triple-leveraged fund on a single day given its ind
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> The calculations were done assuming that TQQQ's total drag factor was a constant .999916 per day, which corresponds to about 2.1%  annual drag. The drag factor includes the expense ratio as well as trading costs. This must be accounted for because, due to high trading costs, the returns of leveraged funds are notably lower than you would expect given their expense ratios. A more accurate model would assume higher drag when interest rates are higher, which I will add at some point in the future. [↩](#fn3)
+<sup id="f3"> 3 </sup> The calculations were done assuming that TQQQ's total drag factor was a constant .999916 per day, which corresponds to about 2.1%  annual drag. The drag factor includes the expense ratio as well as trading costs. This must be accounted for because, due to high trading costs, the returns of leveraged funds are notably lower than you would expect given their expense ratios. A more accurate model would assume higher drag when interest rates are higher, which I will add at some point in the future. The returns for TQQQ after its inception in February 2010 are its actual returns; they are no longer inferred. [↩](#fn3)
 
 &nbsp;
 
