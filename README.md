@@ -275,11 +275,11 @@ To calculate the return of a triple-leveraged fund on a single day given its ind
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on May 11 2022, the value would've fallen by 65.4%, making the total multiplier 62 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. [↩](#fn2)
+<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on May 24 2022, the value would've fallen by 67.7%, making the total multiplier 58 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. The total drawdown between Nov 19 2021 and May 24 2022 was 69.6%. [↩](#fn2)
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> The calculations were done assuming that TQQQ's expense ratio would have been 75 basis points higher than QQQ's expense ratio, as it is today. This is an underestimate, since interest rates were higher in 1999-2002. [↩](#fn3)
+<sup id="f3"> 3 </sup> The calculations were done assuming that TQQQ's total drag factor was a constant .999916 per day, which corresponds to about 2.1%  annual drag. The drag factor includes the expense ratio as well as trading costs. This must be accounted for because, due to high trading costs, the returns of leveraged funds are notably lower than you would expect given their expense ratios. A more accurate model would assume higher drag when interest rates are higher, which I will add at some point in the future. [↩](#fn3)
 
 &nbsp;
 
