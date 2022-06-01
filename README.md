@@ -99,7 +99,7 @@ We don't have to move into wild hypotheticals to see how a triple-leveraged fund
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ%20crash.png" width="631" height="540"/>
 </p>
 
-From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.5% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.94%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
+From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have experienced a decline of about 99.7% in the same period. From its peak, QQQ drew down by 83.0%, while TQQQ would have fallen by about 99.96%. TQQQ investors would have lost virtually everything, and the fund arguably would have closed down. Had TQQQ been launched alongside QQQ and stayed open, the return since inception of QQQ would be superior to that of TQQQ.
 
 <p align="center">
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
