@@ -105,7 +105,7 @@ From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have e
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
 </p>
 
-An investor seeking high expected return _could_ allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, I think options offer a preferable form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
+Part of the problem with TQQQ is that it's concentrated in tech stocks. Under-diversification leaves it needlessly vulnerable to large drawdowns. Just recently, between Nov 2021 and May 2022, tech stocks were routed and it fell by 69.6%. An investor seeking high expected return could allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, options offer an alternative form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
 
 &nbsp;
 
