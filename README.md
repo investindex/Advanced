@@ -4,7 +4,7 @@ This section is under construction.
 
 # Advanced topics
 
-There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include collectibles like art, coins, and jewelry; real estate; (managed) futures; and hedge funds, which on their own have a universe of possible investments such as private equity and merger arbitrage. Most people can safely ignore derivatives and alternative asset classes. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors. There is a detailed discussion of how to use options for long-term investing.
+There are many types of investments beyond the stock and bond portfolios discussed in other sections. These include collectibles like art, coins, and jewelry; real estate; (managed) futures; and hedge funds, which on their own have a [universe](https://www.youtube.com/watch?v=ToGIX1op0bY&list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw&index=7&ab_channel=PatrickBoyle) of possible investments such as private equity and merger arbitrage. Most people can safely ignore derivatives and alternative asset classes. I've addressed only a few below, either because many people are tempted to invest in them for what I think are incorrect reasons, or because I think they're worth considering for experienced and informed investors. There is a detailed discussion of how to use options for long-term investing.
 
 Click to skip to each section:
 
