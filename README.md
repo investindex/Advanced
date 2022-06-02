@@ -228,9 +228,9 @@ With these criteria, the only LETFs whose durability I am fairly confident in ar
 
 If you accept what I've stated so far, this implies that building a diversified equity portfolio with LETFs is not possible (without accepting the liquidation risk of less mainstream funds). Options do not carry any similar risk: counterparty risk is borne by the [Options Clearing Corporation](https://www.investopedia.com/terms/o/occ.asp), so your option contract is sound regardless of economic distress.
 
-LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive, and there is no way to buy less expensive contracts that control fewer than 100 shares.
+LETFs have a lower minimum cost of entry: the share price. Long-dated call options are expensive, and there is no way to buy less expensive contracts that control fewer than 100 shares. LETFs are also more liquid: you pay less in bid-ask spreads.
 
-With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, the choice is between 2x and 3x daily leverage (or in the case of developed ex-US markets, only 2x).
+With options, it is easy to customize the risk you want to accept by selecting from many strike prices. A 40% ITM option provides moderate leverage and somewhat heightened risk. A 10% OTM option is very risky and provides a great deal of leverage. With LETFs, you can customize risk by pairing an unleveraged ETF with a leveraged ETF, achieving between 1x and 3x leverage (or in the case of developed ex-US markets, up to 2x).
 
 The returns of an LETF are path-dependent, while the intrinsic value of an option is not. That is, different degrees of volatility for the index an LETF is leveraging lead to different returns. For a given return of an index, higher volatility of the index produces lower LETF returns. Thus, the 2020 COVID crash was minimally damaging to LETFs, because the market fell and recovered in a relatively straight line.
 
