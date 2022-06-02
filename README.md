@@ -236,7 +236,7 @@ The returns of an LETF are path-dependent, while the intrinsic value of an optio
 
 You could combine the two approaches and buy call options on LETFs. But let's not get crazy.
 
-Discuss [Hedgefundie portfolio](https://www.optimizedportfolio.com/hedgefundie-adventure/): roughly 50% [UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) + roughly 50% [TMF](https://www.direxion.com/product/daily-20-year-treasury-bull-bear-3x-etfs).
+Discuss [Hedgefundie](https://www.optimizedportfolio.com/hedgefundie-adventure/) [portfolio](https://www.reddit.com/r/financialindependence/comments/o7tnm5/my_guide_to_hedgefundies_portfolio_and_why_im_100/): roughly 50% [UPRO](https://www.proshares.com/our-etfs/leveraged-and-inverse/upro/) + roughly 50% [TMF](https://www.direxion.com/product/daily-20-year-treasury-bull-bear-3x-etfs).
 
 &nbsp;
 
