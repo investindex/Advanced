@@ -275,7 +275,7 @@ To calculate the return of a triple-leveraged fund on a single day given its ind
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on May 24 2022, the value would've fallen by 67.7%, making the total multiplier 58 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. The total drawdown between Nov 19 2021 and May 24 2022 was 69.6%. [↩](#fn2)
+<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on June 16 2022, the value would've fallen by 73.7%, making the total multiplier 47 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. The total drawdown between Nov 19 2021 and May 24 2022 was 75.3%. [↩](#fn2)
 
 &nbsp;
 
