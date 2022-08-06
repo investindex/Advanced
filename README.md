@@ -1,4 +1,4 @@
-This section is under construction.
+This section is under construction. The advice here is provisional and subject to further research, but it might be useful, so it's here.
 
 &nbsp;
 
@@ -251,8 +251,8 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk)
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Your psychology](https://github.com/investindex/Psychology)
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Concerns for the small/large investor](https://github.com/investindex/Small)
