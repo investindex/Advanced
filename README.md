@@ -1,4 +1,8 @@
-This section is under construction. The advice here is provisional and subject to further research, but it might be useful, so it's here.
+This section is under construction.
+
+The advice here is provisional and subject to further research, but it might be useful, so it's here.
+
+[Click here to return to the beginning — Cover page](https://github.com/investindex/Intro)
 
 &nbsp;
 
