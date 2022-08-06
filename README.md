@@ -63,7 +63,7 @@ Both Avantis and DFA have real estate ETFs: [AVRE](https://www.avantisinvestors.
 
 &nbsp;
 
-The long-term, high-risk portfolio suggested in the [fund section](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) was:
+The long-term, high-risk portfolio suggested in the [fund section](https://github.com/investindex/Fund/blob/main/README.md#example-portfolios) was:
 
 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 21% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 14% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 11% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 20% [GOVZ](https://www.ishares.com/us/products/315911/)
 
