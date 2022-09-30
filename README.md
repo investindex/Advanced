@@ -113,7 +113,7 @@ From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have e
 <img src="https://github.com/investindex/Advanced/blob/main/TQQQ.png" width="631" height="540"/>
 </p>
 
-Part of the problem with TQQQ is that it's concentrated in tech stocks. Under-diversification leaves it needlessly vulnerable to large drawdowns. Just recently, between Nov 2021 and Jun 2022, tech stocks were routed and it fell by 75.3%. An investor seeking high expected return could allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, options offer an alternative form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
+Part of the problem with TQQQ is that it's concentrated in tech stocks. Under-diversification leaves it needlessly vulnerable to large drawdowns. Just recently, between Nov 2021 and Sep 2022, tech stocks were routed and it fell by 77.0%. An investor seeking high expected return could allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, options offer an alternative form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
 
 &nbsp;
 
@@ -283,7 +283,7 @@ To calculate the return of a triple-leveraged fund on a single day given its ind
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Had an investor done the same, but sold only slightly later on June 16 2022, the value would've fallen by 73.7%, making the total multiplier 47 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. The total drawdown between Nov 19 2021 and Jun 16 2022 was 75.3%. [↩](#fn2)
+<sup id="f2"> 2 </sup> Had an investor done the same, but sold on Sep 29 2022, the value would've fallen by 75.5%, making the total multiplier 44 instead of 179. This is still incredible, but it illustrates the extreme volatility of this fund. The total drawdown between Nov 19 2021 and Sep 29 2022 was 77.0%. [↩](#fn2)
 
 &nbsp;
 
