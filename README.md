@@ -12,7 +12,7 @@ There are many types of investments beyond the stock and bond portfolios discuss
 
 Click to skip to each section:
 
-* [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
+* [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits) - [New portfolio](https://github.com/investindex/Advanced#new-portfolio)
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
 * [_Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
@@ -32,6 +32,8 @@ Both Avantis and DFA have real estate ETFs: [AVRE](https://www.avantisinvestors.
 REITs are very different than directly owning and managing real estate. While rental income is tax-inefficient because it's taxed as ordinary income and can't be deferred, owning real estate means you can benefit from tax maneuvers like depreciation and [1031 exchanges](https://www.whitecoatinvestor.com/deferring-real-estate-taxes) (although these benefits can be exaggerated). You can leverage through loans, which is often good but can also lead to large losses and even owing more on a property than it's worth. You would need hundreds of millions of dollars of property to approach the level of diversification in a fund like DFAR or [VNQ](https://investor.vanguard.com/investment-products/etfs/profile/vnq). So owning individual properties entails far less diversification and far more idiosyncratic risk than owning a REIT fund. Directly owning property involves a great deal of (potentially stressful) management, or the hiring and payment of property managers.
 
 &nbsp;
+
+#### New portfolio
 
 The long-term, high-risk portfolio suggested in the [fund section](https://github.com/investindex/Fund/blob/main/README.md#example-portfolios) was:
 
