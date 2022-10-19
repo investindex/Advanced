@@ -12,7 +12,8 @@ There are many types of investments beyond the stock and bond portfolios discuss
 
 Click to skip to each section:
 
-* [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits) - [New portfolio](https://github.com/investindex/Advanced#new-portfolio)
+* [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
+* [New portfolio](https://github.com/investindex/Advanced#new-portfolio)
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
 * [_Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
@@ -33,7 +34,7 @@ REITs are very different than directly owning and managing real estate. While re
 
 &nbsp;
 
-#### New portfolio
+## New portfolio
 
 The long-term, high-risk portfolio suggested in the [fund section](https://github.com/investindex/Fund/blob/main/README.md#example-portfolios) was:
 
