@@ -23,6 +23,8 @@ Click to skip to each section:
 
 &nbsp;
 
+&nbsp;
+
 ## Real estate investment trusts (REITs)
 
 Watch [this video](https://www.youtube.com/watch?v=IzK5x3LlsUU) by Ben Felix on REITs. He argues that REITs increase exposure to the idiosyncratic risk of the real estate sector without offering a diversification benefit beyond stocks and bonds.
@@ -35,6 +37,8 @@ REITs are very different than directly owning and managing real estate. While re
 
 &nbsp;
 
+&nbsp;
+
 ## Managed futures and trend-following
 
 One of the major weaknesses of the long-term portfolio I suggested [earlier](https://github.com/investindex/Fund/blob/main/README.md) is the risk of unexpectedly high inflation (which tends to be associated with rising interest rates). High inflation is so nasty to most investments that the US government created [Series I bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) and [TIP securities](https://github.com/investindex/Risk#f6) to help Americans protect their assets. Although long-duration bonds like those held by [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/) are generally a great diversifier for stocks, they're pummeled when inflation and interest rates rise unexpectedly. The last graph in the [section on risk](https://github.com/investindex/Risk#learning-from-history) visualized how stocks and bonds fell together in the inflationary environment of 2021-22. Compared to short bonds, long bonds are often the better way to counteract downward volatility of stocks with their upward volatility. But long bonds perform far worse during high inflation. It gets worse: although it's widely believed that high-quality bonds consistently perform well when stocks are plummeting — providing "crisis alpha" — this relationship is far from assured even when inflation is normal.
@@ -44,6 +48,8 @@ A natural question arises. Is there an asset class we can invest in that diversi
 Futures are a [derivative](https://www.investopedia.com/terms/d/derivative.asp), which means their value is partly derived from the price of an underlying asset. Futures are explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio.
 
 [More incoming here]
+
+&nbsp;
 
 &nbsp;
 
@@ -69,13 +75,15 @@ I'll emphasize that overweighting REITs is a debatable decision. Personally I've
 
 &nbsp;
 
-What about including managed futures? Here's a portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/):
+What about including managed futures? Here's a possible portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/):
 
-50% stocks + 20% [BLNDX](https://www.standpointfunds.com/fund) + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
+50% stocks + 18% [BLNDX](https://www.standpointfunds.com/fund) + 18% [KMLM](https://kfafunds.com/kmlm/) + 14% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
-The stock portfolio could be:
+50% stocks in more detail could be:
 
 12% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)/[DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 8% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html)/[DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 6% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)/[DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 4% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html)/[DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)/[DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 8% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 4% [IVAL](https://etfsite.alphaarchitect.com/ival/)
+
+&nbsp;
 
 &nbsp;
 
@@ -93,9 +101,9 @@ So unless you're interested in speculative trading, I don't recommend investing 
 
 &nbsp;
 
-## Cryptocurrency
+&nbsp;
 
-[Continued from the section above.]
+## Cryptocurrency
 
 A USD stablecoin like [USD Coin](https://www.coinbase.com/usdc/) enables someone to own a cryptocurrency that is redeemable for USD, even if they lack access to financial institutions that would allow them to hold USD. A refugee fleeing their country with nothing but their [private key](https://www.investopedia.com/terms/p/private-key.asp) could convert USD Coin to [fiat currency](https://en.wikipedia.org/wiki/Fiat_money) once they arrived somewhere with banking institutions (or found someone willing to exchange cash for crypto). Ukrainian refugees fleeing to Poland [actually did this](https://www.cnbc.com/2022/03/23/ukrainian-flees-to-poland-with-2000-in-bitcoin-on-usb-drive.html) during the Russian invasion in February 2022, because banking access had been obstructed and many people had to flee without the money in their bank accounts. Poland has many Bitcoin ATMs, which allowed those without _any_ banking access in Poland to convert their cryptocurrency to cash.
 
@@ -105,9 +113,13 @@ Stablecoins pegged to the value of a currency, most notably the US dollar but al
 
 &nbsp;
 
-## _Reducing the Risk of Black Swans_
+&nbsp;
+
+## Reducing the Risk of Black Swans
 
 Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, seeks to answer this question. You can click the link to download the book. I won't elaborate because these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a truly diversified portfolio with high expected return.
+
+&nbsp;
 
 &nbsp;
 
@@ -130,6 +142,8 @@ From inception to its lowest point in 2002, QQQ fell by 60.7%. TQQQ would have e
 </p>
 
 Part of the problem with TQQQ is that it's concentrated in tech stocks. Under-diversification leaves it needlessly vulnerable to large drawdowns. Just recently, between Nov 2021 and Sep 2022, tech stocks were routed and it fell by 77.0%. An investor seeking high expected return could allocate a __fraction__ of their portfolio to a leveraged ETF, and rebalance when its weight deviates significantly from its intended weight. But as I'll explain in the next section, options offer an alternative form of leverage. [Click here](https://github.com/investindex/Advanced#etf-call-options-or-leveraged-etfs) for a direct comparison and more (very important!) information on leveraged ETFs.
+
+&nbsp;
 
 &nbsp;
 
