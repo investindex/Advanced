@@ -13,7 +13,7 @@ There are many types of investments beyond the stock and bond portfolios discuss
 Click to skip to each section:
 
 * [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
-* [Managed futures and trend-following
+* [Managed futures and trend-following](https://github.com/investindex/Advanced#managed-futures-and-trend-following)
 * [New portfolio](https://github.com/investindex/Advanced#new-portfolio)
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
@@ -37,9 +37,11 @@ REITs are very different than directly owning and managing real estate. While re
 
 ## Managed futures and trend-following
 
-One of the major weaknesses of the long-term portfolio I suggested [earlier](https://github.com/investindex/Fund/blob/main/README.md) is the risk of unexpectedly high inflation (which tends to be associated with rising interest rates). High inflation is so nasty to most investments that the US government created [Series I bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) and [TIP securities](https://github.com/investindex/Risk#f6) to help Americans protect their assets. Although long-duration bonds like those held by [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/) are generally a great diversifier for stocks, they're pummeled when inflation and interest rates rise unexpectedly. The last graph in the [section on risk](https://github.com/investindex/Risk#learning-from-history) visualized how stocks and bonds fell together in the inflationary environment of 2021-22. Compared to short bonds, long bonds are often the better way to counteract downward volatility of stocks with their upward volatility. But long bonds perform far worse during high inflation. It gets worse: although it's widely believed that high-quality bonds consistently perform well when stocks are plummeting — providing _crisis alpha_ — this relationship is far from assured even when inflation is normal.
+One of the major weaknesses of the long-term portfolio I suggested [earlier](https://github.com/investindex/Fund/blob/main/README.md) is the risk of unexpectedly high inflation (which tends to be associated with rising interest rates). High inflation is so nasty to most investments that the US government created [Series I bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) and [TIP securities](https://github.com/investindex/Risk#f6) to help Americans protect their assets. Although long-duration bonds like those held by [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/) are generally a great diversifier for stocks, they're pummeled when inflation and interest rates rise unexpectedly. The last graph in the [section on risk](https://github.com/investindex/Risk#learning-from-history) visualized how stocks and bonds fell together in the inflationary environment of 2021-22. Compared to short bonds, long bonds are often the better way to counteract downward volatility of stocks with their upward volatility. But long bonds perform far worse during high inflation. It gets worse: although it's widely believed that high-quality bonds consistently perform well when stocks are plummeting — providing "crisis alpha" — this relationship is far from assured even when inflation is normal.
 
-A natural question arises. Is there an asset class we can invest in that diversifies beyond stocks and bonds, that might perform well when stocks and bonds fall? Thankfully there is!
+A natural question arises. Is there an asset class we can invest in that diversifies beyond stocks and bonds, that might perform well when stocks and bonds fall? Managed futures arguably can play that role. The main funds we'll cover are [KMLM](https://kfafunds.com/kmlm/), [BLNDX](https://www.standpointfunds.com/fund), and [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/).
+
+Futures are a [derivative](https://www.investopedia.com/terms/d/derivative.asp), which means their value is partly derived from the price of an underlying asset. Futures are explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio.
 
 [More incoming here]
 
@@ -53,27 +55,21 @@ The long-term, high-risk portfolio suggested in the [fund section](https://githu
 
 We also [discussed](https://github.com/investindex/Fund/blob/main/README.md#beyond-mainstream-factor-funds) Alpha Architect products in that section. They hold more concentrated portfolios of 50 equal-weighted stocks, but they offer a way to diversify implementation of value investing. So for a tax-advantaged account, here are possible portfolios with Alpha Architect value funds and a real estate fund:
 
-18% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 12% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10.5% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 11% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) + 20% [GOVZ](https://www.ishares.com/us/products/315911/)
+18% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 12% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 10.5% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 11% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) + 20% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
 or
 
-18% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 12% [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 10.5% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 7% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 7.5% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 11% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) + 20% [GOVZ](https://www.ishares.com/us/products/315911/)
+18% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 12% [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 10.5% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 7% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 7.5% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 11% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) + 20% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
 &nbsp;
 
-In a taxable account, REIT funds should be eliminated:
-
-19% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 13% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 12% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 8% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 12% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 8% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 20% [GOVZ](https://www.ishares.com/us/products/315911/)
-
-or
-
-19% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 13% [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 12% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 8% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 12% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 8% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 20% [GOVZ](https://www.ishares.com/us/products/315911/)
-
-&nbsp;
-
-Both of these portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the allocation to AVUV or DFSV between the two, and do the same with AVLV/DFUV, AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, more than two-thirds of AVRE's portfolio is in the US.
+In a taxable account, REIT funds should be eliminated. Both of these portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the allocation to AVUV or DFSV between the two, and do the same with AVLV/DFUV, AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, more than two-thirds of AVRE's portfolio is in the US.
 
 I'll emphasize that overweighting REITs is a debatable decision. Personally I've chosen to include a small allocation to DFAR in my Roth IRA. Apart from not owning AVRE, I split allocations evenly between Avantis and DFA funds.
+
+What about including managed futures? Here's a portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/):
+
+50% stocks + 15% [BLNDX](https://www.standpointfunds.com/fund) + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
 &nbsp;
 
