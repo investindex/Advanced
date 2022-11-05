@@ -14,7 +14,7 @@ Click to skip to each section:
 
 * [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
 * [Managed futures and trend-following](https://github.com/investindex/Advanced#managed-futures-and-trend-following)
-* [New portfolios](https://github.com/investindex/Advanced#new-portfolio)
+* [New portfolios](https://github.com/investindex/Advanced#new-portfolios)
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
 * [Reducing the Risk of Black Swans](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
