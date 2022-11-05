@@ -13,10 +13,11 @@ There are many types of investments beyond the stock and bond portfolios discuss
 Click to skip to each section:
 
 * [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
+* [Managed futures and trend-following
 * [New portfolio](https://github.com/investindex/Advanced#new-portfolio)
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
-* [_Reducing the Risk of Black Swans_](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
+* [Reducing the Risk of Black Swans](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
 * [Leveraged funds](https://github.com/investindex/Advanced#leveraged-funds)
 * [Options](https://github.com/investindex/Advanced#options)
 
@@ -31,6 +32,16 @@ REITs are already in total stock market funds at a 3-4% weight, so buying REIT f
 Both Avantis and DFA have real estate ETFs: [AVRE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-real-estate-etf.html) (global) and [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) (US). Like any ETFs from these managers, they are fairly new, but DFA's mutual fund counterpart [DFREX](https://www.dimensional.com/us-en/funds/dfrex/real-estate-securities-portfolio-i) was launched in 1993. Its past performance compared to Vanguard's fund is [here](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=VGSIX&allocation1_1=100&symbol2=DFREX&allocation2_2=100).
 
 REITs are very different than directly owning and managing real estate. While rental income is tax-inefficient because it's taxed as ordinary income and can't be deferred, owning real estate means you can benefit from tax maneuvers like depreciation and [1031 exchanges](https://www.whitecoatinvestor.com/deferring-real-estate-taxes) (although these benefits can be exaggerated). You can leverage through loans, which is often good but can also lead to large losses and even owing more on a property than it's worth. You would need billions of dollars of property to approach the diversification of a fund like DFAR or [VNQ](https://investor.vanguard.com/investment-products/etfs/profile/vnq). So owning individual properties entails far less diversification and far more idiosyncratic risk than owning a REIT fund. Directly owning property involves a great deal of (potentially stressful) management, or the hiring and payment of property managers.
+
+&nbsp;
+
+## Managed futures and trend-following
+
+One of the major weaknesses of the long-term portfolio I suggested [earlier](https://github.com/investindex/Fund/blob/main/README.md) is the risk of unexpectedly high inflation (which tends to be associated with rising interest rates). High inflation is so nasty to most investments that the US government created [Series I bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) and [TIP securities](https://github.com/investindex/Risk#f6) to help Americans protect their assets. Although long-duration bonds like those held by [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/) are generally a great diversifier for stocks, they're pummeled when inflation and interest rates rise unexpectedly. The last graph in the [section on risk](https://github.com/investindex/Risk#learning-from-history) visualized how stocks and bonds fell together in the inflationary environment of 2021-22. Compared to short bonds, long bonds are often the better way to counteract downward volatility of stocks with their upward volatility. But long bonds perform far worse during high inflation. It gets worse: although it's widely believed that high-quality bonds consistently perform well when stocks are plummeting — providing _crisis alpha_ — this relationship is far from assured even when inflation is normal.
+
+A natural question arises. Is there an asset class we can invest in that diversifies beyond stocks and bonds, that might perform well when stocks and bonds fall? Thankfully there is!
+
+[More incoming here]
 
 &nbsp;
 
