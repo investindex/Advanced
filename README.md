@@ -69,7 +69,11 @@ I'll emphasize that overweighting REITs is a debatable decision. Personally I've
 
 What about including managed futures? Here's a portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/):
 
-50% stocks + 15% [BLNDX](https://www.standpointfunds.com/fund) + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
+50% stocks + 20% [BLNDX](https://www.standpointfunds.com/fund) + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
+
+The stock portfolio could be broken into:
+
+10% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 12% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)/[DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 8% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html)/[DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 7.5% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)/[DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 5% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html)/[DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)/[DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf)
 
 &nbsp;
 
