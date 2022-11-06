@@ -91,6 +91,22 @@ Again, this allocation heavily overweights value stocks and is very different th
 
 ## Seeking a Dragon Portfolio
 
+Before landing in Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable).
+
+<!--
+
+He wrote that
+
+> The sighting of the first black swan ... illustrates a severe limitation to our learning from observations or experience and the fragility of our knowledge. One single observation can invalidate a general statement derived from millennia of confirmatory sightings of millions of white swans.
+
+-->
+
+_[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, explores how to diversify in ways that reduce risk in a fundamentally unpredictable future. Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? The book seeks to answer this question. You can click the link to download the book. Unfortunately, these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a truly diversified portfolio with high expected return.
+
+[More incoming here]
+
+&nbsp;
+
 Chris Cole of Artemis Capital Management published a paper in January 2020 proposing a 100-year portfolio he called the Dragon Portfolio. By 100-year portfolio, he meant a portfolio that you're confident will grow and protect your wealth for the next 100 years, with no adjustment other than rebalancing. You can read the paper [here](https://www.artemiscm.com/research-market-views), under "The Allegory of the Hawk and Serpent". The serpent represents periods of asset growth and great returns for the major risk assets of stocks and bonds (like the 1980s and '90s in the US). The hawk represents various types of chaos, in which one or both of those risk assets perform poorly (like the 1930s and '70s in the US). Together, the hawk and serpent represent cosmic balance and form the dragon.
 
 He stated that conditions between 1980 and 2020 were perfectly suited to high returns for stocks and bonds in the US, and that those conditions are approaching a terminus. The party's over! I don't fully endorse this view, or his 18th-century use of capitalized words, but I think one should always act as if his thesis could be true! Ideally, you should be financially prepared at all times to enter a period of unusually poor returns for stocks and bonds. He wrote: "The solution to [secular](https://www.investopedia.com/terms/s/secular.asp) decline is simple when you study financial history: find assets that can perform when Stocks and Bonds don't, and boldly size them in your portfolio regardless of short term performance."
@@ -107,21 +123,20 @@ Long volatility was modeled as an options strategy that follows volatility trend
 
 -->
 
-[More incoming here]
-
-&nbsp;
-
-Before landing in Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable).
-
 <!--
 
-He wrote that
+We've now reviewed a number of asset classes, with distinct sources of risk and expected return:
 
-> The sighting of the first black swan ... illustrates a severe limitation to our learning from observations or experience and the fragility of our knowledge. One single observation can invalidate a general statement derived from millennia of confirmatory sightings of millions of white swans.
+* Stocks
+* Bonds
+* Trend-following (bonds, commodities, currencies, equities)
+* Long vol
+* Commodities (notably gold)
+* Merger arbitrage
+
+I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are very similar.
 
 -->
-
-Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, seeks to answer this question. You can click the link to download the book. I won't elaborate because these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a truly diversified portfolio with high expected return.
 
 [More incoming here]
 
