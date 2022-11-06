@@ -83,15 +83,23 @@ In more detail, 50% stocks could be:
 
 12% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)/[DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 8% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html)/[DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 6% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)/[DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 4% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html)/[DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)/[DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 8% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 4% [IVAL](https://etfsite.alphaarchitect.com/ival/)
 
+Again, this allocation heavily overweights value stocks and is very different than VT. BLNDX holds cap-weighted stocks in developed markets. 
+
 &nbsp;
 
 &nbsp;
 
 ## Seeking a Dragon Portfolio
 
-Chris Cole of Artemis Capital Management wrote a paper in 2020 proposing a 100-year portfolio he called the Dragon Portfolio. By 100-year portfolio, he meant a portfolio that you're confident will grow and protect your wealth for the next 100 years, with no adjustment other than rebalancing. You can read the paper [here](https://www.artemiscm.com/research-market-views), under "The Allegory of the Hawk and Serpent". The serpent represents periods of asset growth and great returns for stocks and bonds (like the 1990s and 2010s in the US). The hawk represents various types of chaos, in which stocks and sometimes bonds perform poorly (like the 1930s and 1970s in the US). Together, they form the dragon.
+Chris Cole of Artemis Capital Management wrote a paper in 2020 proposing a 100-year portfolio he called the Dragon Portfolio. By 100-year portfolio, he meant a portfolio that you're confident will grow and protect your wealth for the next 100 years, with no adjustment other than rebalancing. You can read the paper [here](https://www.artemiscm.com/research-market-views), under "The Allegory of the Hawk and Serpent". The serpent represents periods of asset growth and great returns for the major risk assets of stocks and bonds (like the 1980s and '90s in the US). The hawk represents various types of chaos, in which one or both of those risk assets perform poorly (like the 1930s and '70s in the US). Together, they represent cosmic balance and form the dragon.
 
-Before discovering Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable).
+He states that conditions between 1980 and 2020 were perfectly suited to high returns for stocks and bonds in the US, and that those conditions are approaching a terminus. "The solution to [secular](https://www.investopedia.com/terms/s/secular.asp) decline is simple when you study financial history: find assets that can perform when Stocks and Bonds don't, and boldly size them in your portfolio regardless of short term performance." I don't necessarily endorse this view, nor his 18th-century use of capitalized words, but I think one should always act as if this thesis could be true! Ideally, you should be financially prepared at all times to enter a period of unusually poor returns for stocks and bonds. But as Cole emphasizes, major institutions like pension plans depend on the returns of stocks and bonds persisting as they have in recent history.
+
+
+
+&nbsp;
+
+Before landing in Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable).
 
 <!--
 
