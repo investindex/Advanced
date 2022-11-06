@@ -83,7 +83,7 @@ In more detail, 50% stocks could be:
 
 12% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)/[DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 8% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html)/[DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 6% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)/[DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 4% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html)/[DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)/[DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 8% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 4% [IVAL](https://etfsite.alphaarchitect.com/ival/)
 
-Again, this allocation heavily overweights value stocks and is very different than VT. BLNDX holds cap-weighted stocks in developed markets. 
+Again, this allocation heavily overweights value stocks and is very different than VT. BLNDX holds cap-weighted stocks in developed markets. To reach an 18% allocation of BLNDX, which has a minimum investment of $25K, one would need a total portfolio of nearly $139K.
 
 &nbsp;
 
