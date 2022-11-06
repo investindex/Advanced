@@ -115,6 +115,8 @@ Long-short risk premia strategies allow an investor to profit by taking a long p
 
 Time-series momentum, or trend-following, is generally implemented using futures, leading to the broad category of "managed futures". As discussed above, trend-following across multiple asset classes has returns with very low correlation to stocks and bonds. They recommend [AQMRX](https://funds.aqr.com/Funds/Alternatives/AQR-Managed-Futures-Strategy-Fund/AQMRX) and [QMHRX](https://funds.aqr.com/Funds/Alternatives/AQR-Managed-Futures-Strategy-HV-Fund/QMHRX), which are AQR funds with high minimum investments.
 
+All of these strategies are less tax-efficient than buying and holding a stock ETF.
+
 [More incoming here]
 
 &nbsp;
@@ -148,6 +150,7 @@ We've now reviewed a number of distinct sources of risk and expected return:
 * Merger arbitrage
 * Alternative lending
 * Reinsurance (e.g., cat bonds)
+* Long-short risk factor portfolios
 
 I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are fundamentally similar. Returns from [merger arbitrage](https://www.youtube.com/watch?v=RDdX7IfCM20&list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw&index=9) naturally have almost no relation to returns from stocks or other asset classes, which Chris Cole mentioned in [a podcast with Meb Farber on the Dragon Portfolio](https://www.youtube.com/watch?v=Dqt0SAeHH0w).
 
