@@ -143,6 +143,7 @@ We've now reviewed a number of distinct sources of risk and expected return:
 
 * Stocks
 * Bonds
+* Real estate
 * Trend-following (bonds, commodities, currencies, equities)
 * Long vol option buying
 * Short vol option selling
@@ -152,7 +153,7 @@ We've now reviewed a number of distinct sources of risk and expected return:
 * Reinsurance (e.g., cat bonds)
 * Long-short risk factor portfolios
 
-I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are fundamentally similar. Returns from [merger arbitrage](https://www.youtube.com/watch?v=RDdX7IfCM20&list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw&index=9) have low correlation to returns from stocks or other asset classes, which Chris Cole mentioned in [a podcast with Meb Farber on the Dragon Portfolio](https://www.youtube.com/watch?v=Dqt0SAeHH0w). Some merger deals, however, can fall through due to market downturns when an acquiring company is no longer satisfied with a deal that was agreed upon during better economic conditions.
+I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are fundamentally similar. The diversification added by real estate is questionable. Returns from [merger arbitrage](https://www.youtube.com/watch?v=RDdX7IfCM20&list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw&index=9) have low correlation to returns from stocks or other asset classes, which Chris Cole mentioned in [a podcast with Meb Farber on the Dragon Portfolio](https://www.youtube.com/watch?v=Dqt0SAeHH0w). Some merger deals, however, can fall through due to market downturns when an acquiring company is no longer satisfied with a deal that was agreed upon during better economic conditions.
 
 [More incoming here]
 
