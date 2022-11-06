@@ -95,6 +95,8 @@ Before landing in Australia, Europeans had encountered only white swans. In his 
 
 <!--
 
+PERSISTENT, PERVASIVE, ROBUST, IMPLEMENTABLE
+
 He wrote that
 
 > The sighting of the first black swan ... illustrates a severe limitation to our learning from observations or experience and the fragility of our knowledge. One single observation can invalidate a general statement derived from millennia of confirmatory sightings of millions of white swans.
@@ -107,7 +109,11 @@ Alternative lending to underserved borrowers like small business owners tends to
 
 Reinsurance is insurance that is purchased by an insurance company, to expand the client base they can insure while responsibly managing risk. Losses due to insured events like earthquakes and hurricanes are expected to be highly distinct from stock market downturns. Catastrophe bonds, commonly shortened to cat bonds, are bonds that reward investors when insured disasters do not occur. A good reinsurance fund is diversified across many sources of risk, of which cat bonds are only one. The fund they recommend for reinsurance is SRRIX.
 
-From an expected value standpoint, people are willing to overpay for hedges against catastrophic outcomes and for lottery equivalents: opportunities for extreme upside. In other words, it is profitable to sell volatility. They refer to this risk premium as the variance risk premium (VRP). Short vol strategies tend to be quite risky. An investor who sells options on equities will tend to suffer large drawdowns in the worst economic periods, when most people aren't capable of accepting extra risk. They recommend AVRPX, which runs short vol strategies across global markets and multiple asset classes.
+From an expected value standpoint, people are willing to overpay for hedges against catastrophic outcomes and for lottery equivalents: opportunities for extreme upside. In other words, it is profitable to sell volatility. They refer to this risk premium as the variance risk premium (VRP). Short vol strategies tend to be quite risky. An investor who sells options on equities will suffer large drawdowns in the worst economic periods, when most people aren't capable of accepting extra risk. They recommend AVRPX, which runs short vol strategies across global markets and multiple asset classes.
+
+Long-short risk premia strategies allow an investor to profit by taking a long position on certain assets with a higher expected return, and a short position on others with a lower expected return. A portfolio that is long value stocks and short growth stocks is expected to have positive returns with low correlation to stocks and bonds. QSPRX is the fund they recommend for risk premia strategies across multiple asset classes.
+
+Time-series momentum, or trend-following, is generally implemented using futures, leading to the broad category of "managed futures". As discussed above, trend-following across multiple asset classes has returns with very low correlation to stocks and bonds. They recommend [AQMRX](https://funds.aqr.com/Funds/Alternatives/AQR-Managed-Futures-Strategy-Fund/AQMRX) and [QMHRX](https://funds.aqr.com/Funds/Alternatives/AQR-Managed-Futures-Strategy-HV-Fund/QMHRX), which are AQR funds with high minimum investments.
 
 [More incoming here]
 
@@ -131,8 +137,6 @@ Despite the simulation of a long vol option buying back-test, I'm skeptical of t
 
 -->
 
-<!--
-
 We've now reviewed a number of distinct sources of risk and expected return:
 
 * Stocks
@@ -146,8 +150,6 @@ We've now reviewed a number of distinct sources of risk and expected return:
 * Reinsurance (e.g., cat bonds)
 
 I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are fundamentally similar. Returns from [merger arbitrage](https://www.youtube.com/watch?v=RDdX7IfCM20&list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw&index=9) naturally have almost no relation to returns from stocks or other asset classes, which Chris Cole mentioned in [a podcast with Meb Farber on the Dragon Portfolio](https://www.youtube.com/watch?v=Dqt0SAeHH0w).
-
--->
 
 [More incoming here]
 
