@@ -14,10 +14,10 @@ Click to skip to each section:
 
 * [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
 * [Managed futures and trend-following](https://github.com/investindex/Advanced#managed-futures-and-trend-following)
-* [New portfolios](https://github.com/investindex/Advanced#new-portfolios)
+* [New allocations](https://github.com/investindex/Advanced#new-allocations)
+* [Seeking a Dragon Portfolio](https://github.com/investindex/Advanced#seeking-a-dragon-portfolio)
 * [Gold and other precious metals](https://github.com/investindex/Advanced#gold-and-other-precious-metals)
 * [Cryptocurrency](https://github.com/investindex/Advanced#cryptocurrency)
-* [Reducing the Risk of Black Swans](https://github.com/investindex/Advanced#reducing-the-risk-of-black-swans)
 * [Leveraged funds](https://github.com/investindex/Advanced#leveraged-funds)
 * [Options](https://github.com/investindex/Advanced#options)
 
@@ -53,7 +53,7 @@ Futures are a [derivative](https://www.investopedia.com/terms/d/derivative.asp),
 
 &nbsp;
 
-## New portfolios
+## New allocations
 
 The long-term, high-risk portfolio suggested in the [fund section](https://github.com/investindex/Fund/blob/main/README.md#example-portfolios) was:
 
@@ -79,9 +79,29 @@ What about including managed futures? Here's a possible portfolio that's much mo
 
 50% stocks + 18% [BLNDX](https://www.standpointfunds.com/fund) + 18% [KMLM](https://kfafunds.com/kmlm/) + 14% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
-50% stocks in more detail could be:
+In more detail, 50% stocks could be:
 
 12% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)/[DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 8% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html)/[DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf) + 6% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)/[DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 4% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html)/[DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)/[DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 8% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 4% [IVAL](https://etfsite.alphaarchitect.com/ival/)
+
+&nbsp;
+
+&nbsp;
+
+## Seeking a Dragon Portfolio
+
+Chris Cole of Artemis Capital Management wrote a paper in 2020 proposing a 100-year portfolio he called the Dragon Portfolio. By 100-year portfolio, he meant a portfolio that you're confident will grow and protect your wealth for the next 100 years, with no adjustment other than rebalancing. You can read the paper [here](https://www.artemiscm.com/research-market-views), under "The Allegory of the Hawk and Serpent". The serpent represents periods of asset growth and great returns for stocks and bonds (like the 1990s and 2010s in the US). The hawk represents various types of chaos, in which stocks and sometimes bonds perform poorly (like the 1930s and 1970s in the US). Together, they form the dragon.
+
+Before discovering Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable).
+
+<!--
+
+He wrote that
+
+> The sighting of the first black swan ... illustrates a severe limitation to our learning from observations or experience and the fragility of our knowledge. One single observation can invalidate a general statement derived from millennia of confirmatory sightings of millions of white swans.
+
+-->
+
+Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, seeks to answer this question. You can click the link to download the book. I won't elaborate because these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a truly diversified portfolio with high expected return.
 
 &nbsp;
 
@@ -93,9 +113,9 @@ There are a few reasons people invest in gold. They may think that it is a widel
 
 Unfortunately, gold is not a good store of value compared to holding cash in a stable currency like the US dollar. It's a volatile asset that can lose value for long periods and has experienced no positive real return over its many centuries of use. Gold is not a reliable hedge against inflation. Its value sometimes increases when unexpected inflation occurs, and sometimes decreases. The price does not reliably _respond_ to inflation. Anecdotally, when inflation spiked globally in 2021-22, the [price](https://www.ssga.com/us/en/individual/etfs/funds/spdr-gold-shares-gld) of gold [trended downward](https://www.portfoliovisualizer.com/backtest-asset-class-allocation?s=y&mode=1&timePeriod=4&startYear=2021&firstMonth=1&endYear=2022&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&asset1=Gold&allocation1_1=100). For evidence and more information, you could [read](https://github.com/investindex/Advanced/blob/main/GoldenDilemma.pdf) [these](https://github.com/investindex/Advanced/blob/main/GoldenConstant.pdf) [papers](https://www.tandfonline.com/doi/pdf/10.1080/0015198X.2020.1817698) or watch [videos](https://www.youtube.com/watch?v=1a3XnvRCcVo) [here](https://www.youtube.com/watch?v=ulgqlQWlPbo), [here](https://www.youtube.com/watch?v=_f0dns9fHFs&t=1347s), and [here](https://www.youtube.com/watch?v=UDHJh8CXTVQ&t=927s).
 
-In [this interview](https://www.youtube.com/watch?v=RSwctXnMnrw&t=4838s) on the Rational Reminder, Dr. Campbell Harvey discussed a fascinating interaction he had with someone who managed a family trust with an investment horizon of hundreds of years. He also mentioned the possibility that gold could lose significant value in the long run due to asteroid mining, which is a [very real prospect](https://www.youtube.com/watch?v=y8XvQNt26KI) within this century.
+In [this interview](https://www.youtube.com/watch?v=RSwctXnMnrw&t=4838s) on the Rational Reminder, Dr. Campbell Harvey discussed a fascinating interaction he had with someone who managed a family trust with an investment horizon of hundreds of years. He also mentioned the possibility that gold could lose significant value in the long run due to asteroid mining, which is a [very real prospect](https://www.youtube.com/watch?v=y8XvQNt26KI) within this century. For this reason, I would exclude gold from a literal 100-year portfolio, although of course no one is in the position of deciding on an allocation they can't touch for 100 years. If the price of gold could permanently collapse at some point, it's hard to say how gradually this might occur or how hard it might be to sell before others realize they're stuck holding the bag.
 
-In my view, aside from making specific bets on price movement, for most people there is one good reason to own gold: to protect your wealth against a collapse of the value of your home country's currency. For US citizens, this is not a major concern: USD is the global reserve currency and inflation is sufficiently low and stable. For someone in a country like Venezuela, Turkey, or Argentina, wealth is vulnerable to hyperinflation and the loss of their currency's value relative to other currencies. If they have access, they could simply hold other currencies or assets like US-listed securities. If not, they could own gold or a USD stablecoin, the latter of which is the only application of cryptocurrency I would consider suggesting to most people (see below).
+In my view, aside from making specific bets on price movement or mechanically trend-following, for most people there is one good reason to own gold: to protect your wealth against a collapse of the value of your home country's currency. For US citizens, this is not a major concern: USD is the global reserve currency and inflation is sufficiently low and stable. For someone in a country like Venezuela, Turkey, or Argentina, wealth is vulnerable to hyperinflation and the loss of their currency's value relative to other currencies. If they have access, they could simply hold other currencies or assets like US-listed securities. If not, they could own gold or a USD stablecoin, the latter of which is the only application of cryptocurrency I would consider suggesting to most people (see below).
 
 So unless you're interested in speculative trading, I don't recommend investing in precious metals. If you'd like to hedge against unexpectedly high inflation, you can buy [treasury inflation-protected securities](https://github.com/investindex/Risk#f4). If you want good returns during high inflation, you can invest in [Series I savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds). If you're not concerned with inflation or diversification, but instead with currency that people will value during an apocalypse, I suggest expanding your portfolio of canned food, medicine, guns, and bullets. I personally find it doubtful that anyone will accept gold coins and bars in exchange for a resource of real value at the end of the world. Gold may have widely recognized value during normal times, but it does not have intrinsic value, except for certain engineering applications which don't apply to a vast majority of people.
 
@@ -110,14 +130,6 @@ A USD stablecoin like [USD Coin](https://www.coinbase.com/usdc/) enables someone
 Stablecoins pegged to the value of a currency, most notably the US dollar but also the Euro and Japanese yen, are important because they facilitate international transactions that traditional financial institutions can make extremely difficult. This highlights that the only major use case for cryptocurrencies so far has been to sidestep regulations that govern traditional banking and investments. A stablecoin is the only application of cryptocurrency I _might_ currently recommend to people who aren't already interested for some other reason, especially if you live in a country with an unstable currency or you want to use them for international transactions. However, you still need to understand [different kinds](https://www.youtube.com/watch?v=iisPX_xVMV8) [of stablecoins](https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201). Some stablecoins are built poorly and are not stable at all. Cryptocurrency skeptics might say that you have no assurance that even the asset-backed stablecoins are actually asset-backed. Given the amount of fraud in the crypto space, I can't strongly disagree until regulators start verifying these assets. Coinbase states that USD Coin is backed by cash and US Treasury bonds.
 
 [This column](https://www.wsj.com/articles/bitcoin-you-can-get-crypto-investing-right-and-still-play-it-wrong-11643990277) from the WSJ describes the main issue with investing in cryptocurrencies that I'd like to express. Even if _some_ cryptocurrencies appreciate greatly in value, the distribution of returns is almost certain to be highly [positively skewed](https://en.wikipedia.org/wiki/Skewness#/media/File:Relationship_between_mean_and_median_under_different_skewness.png). Unless you're determined to build a diversified portfolio of cryptocurrencies on your own, there is a high risk of missing out on the appreciation of a small fraction of cryptocurrencies. This is a crucial lesson in stocks as well: the [positively skewed distribution](https://www.youtube.com/watch?v=xfdMDGIABek) of returns is why you need to diversify broadly to avoid the risk of underperformance. Someone holding only a few stocks or a few cryptocurrencies bears a high risk of underperforming the asset class return. On top of that, there is no guarantee that cryptocurrency will have a positive asset class return, regardless of your time horizon. Of course, anyone is free to bet on specific cryptocurrencies, but the advice given in this guide is deliberately not reliant on being smarter than everyone else.
-
-&nbsp;
-
-&nbsp;
-
-## Reducing the Risk of Black Swans
-
-Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? _[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, seeks to answer this question. You can click the link to download the book. I won't elaborate because these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a truly diversified portfolio with high expected return.
 
 &nbsp;
 
