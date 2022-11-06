@@ -91,7 +91,7 @@ Again, this allocation heavily overweights value stocks and is very different th
 
 ## Seeking a Dragon Portfolio
 
-Before landing in Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable).
+Before landing in Australia, Europeans had encountered only white swans. In his well-known [book](https://libgen.is/search.php?req=Taleb+Black+Swan&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def), Nassim Taleb defined a proverbial "black swan" as an outlier which couldn't have been predicted on the basis of prior observation, which has an extreme impact — unlike the bird — and which humans try to explain afterward (often convincing themselves that it was predictable). Black swans are not merely surprising events, like the COVID-19 pandemic, because experts on infectious disease were aware of the risk, even if they couldn't predict when the next major pandemic would occur.
 
 <!--
 
@@ -101,7 +101,13 @@ He wrote that
 
 -->
 
-_[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, explores how to diversify in ways that reduce risk in a fundamentally unpredictable future. Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? The book seeks to answer this question. You can click the link to download the book. Unfortunately, these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. Regardless of whether you have access, it's a great read because it explores why diversification is important and how to build a truly diversified portfolio with high expected return.
+_[Reducing the Risk of Black Swans](https://libgen.rs/search.php?req=Reducing+the+Risk+of+Black+Swans&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)_, by Larry Swedroe and Kevin Grogan, explores how to diversify in ways that reduce risk in a fundamentally unpredictable future. Finding imperfectly correlated assets is the heart of [diversification](https://github.com/investindex/Portfolio#clarifying-diversification). A portfolio with uncorrelated assets that each have high expected return would be ideal. But how could we achieve equity-like returns that aren't highly correlated with equities? The book seeks to answer this question. Unfortunately, these asset classes are accessible only to institutional investors, very high net worth investors, and clients of certain wealth management firms. They require high minimum investments and are partially illiquid, which is why access is restricted. The investment vehicles are interval funds, which differ from mutual funds because (a) they have quarterly liquidity instead of daily liquidity and (b) redemptions are limited, so it takes time to withdraw your entire investment. What are the alternative investments they suggest?
+
+Alternative lending to underserved borrowers like small business owners tends to have low duration risk combined with higher credit risk than A-rated corporate bonds. Their recommended fund, LENDX, has a minimum investment of $15 million, so investors typically access the fund through wealth management firms or other institutions.
+
+Reinsurance is insurance that is purchased by an insurance company, to expand the client base they can insure while responsibly managing risk. Losses due to insured events like earthquakes and hurricanes are expected to be highly distinct from stock market downturns. Catastrophe bonds, commonly shortened to cat bonds, are bonds that reward investors when insured disasters do not occur. A good reinsurance fund is diversified across many sources of risk, of which cat bonds are only one. The fund they recommend for reinsurance is SRRIX.
+
+From an expected value standpoint, people are willing to overpay for hedges against catastrophic outcomes and for lottery equivalents: opportunities for extreme upside. In other words, it is profitable to sell volatility. They refer to this risk premium as the variance risk premium (VRP). Short vol strategies tend to be quite risky. An investor who sells options on equities will tend to suffer large drawdowns in the worst economic periods, when most people aren't capable of accepting extra risk. They recommend AVRPX, which runs short vol strategies across global markets and multiple asset classes.
 
 [More incoming here]
 
@@ -115,7 +121,9 @@ Cole's Dragon Portfolio is composed of five asset classes split evenly: stocks, 
 
 Although one can tell a compelling story about the diversification value of gold in a back-tested portfolio of US assets, I'm skeptical of how well this can be extrapolated into the future. The far future is another matter entirely. Gold has its own section below. I would not include gold in my own Dragon Portfolio.
 
-Long volatility was modeled as an options strategy that follows volatility trends (options are a derivative explained [below](https://github.com/investindex/Advanced#options)). Their long vol algorithm was the following: "In our historical simulations, we sought to replicate an Active Long Volatility strategy by buying out-of-the-money put options if the market is down -5% or more and purchasing out-of-the-money call options if the market is up +5% or more over any rolling three months." They wrote that this method optimizes for simplicity, and is expected to be suboptimal in terms of performance. Data from options exchanges extend back to the 1980s. They extrapolated from real data to simulate a long vol strategy throughout the entire period of 1928-2019. The long vol approach is intended to produce explosive movements that have negative correlation to stocks. This hopefully allows the long vol portion of the portfolio to rebalance into stocks after stocks have crashed. I think it's important to note that if you access a strategy like long vol through hedge funds, your total fees will average multiple percentage points annually.
+Long volatility was modeled as an options strategy that follows volatility trends (options are a derivative explained [below](https://github.com/investindex/Advanced#options)). Their long vol algorithm was the following: "In our historical simulations, we sought to replicate an Active Long Volatility strategy by buying out-of-the-money put options if the market is down -5% or more and purchasing out-of-the-money call options if the market is up +5% or more over any rolling three months." They wrote that this method optimizes for simplicity, and is expected to be suboptimal in terms of performance. Data from options exchanges extend back to the 1980s. They extrapolated from real data to simulate a long vol strategy throughout the entire period of 1928-2019. The long vol approach is intended to produce explosive movements that sometimes have negative correlation to stocks.
+
+Despite the simulation of a long vol option buying back-test, I'm skeptical of the value of this part of the Dragon Portfolio. It naturally loses money most of the time, but is primarily meant to benefit the investor by providing capital to rebalance into stocks when they have plummeted (which is the most valuable time to buy stocks). However, much of the time, an investor would have benefited from simply investing this portion in short-term US Treasury bills and building a cash reserve to invest when other parts of the portfolio have crashed. I think it's important to note that if you access a long vol strategy through hedge funds, which is what Cole recommends, your total fees will average multiple percentage points annually. Given the limited nature of _real_ data on which to test long vol strategies and the high fees of professional managers, I would be reluctant to include it in my Dragon Portfolio.
 
 <!--
 
@@ -125,16 +133,19 @@ Long volatility was modeled as an options strategy that follows volatility trend
 
 <!--
 
-We've now reviewed a number of asset classes, with distinct sources of risk and expected return:
+We've now reviewed a number of distinct sources of risk and expected return:
 
 * Stocks
 * Bonds
 * Trend-following (bonds, commodities, currencies, equities)
-* Long vol
+* Long vol option buying
+* Short vol option selling
 * Commodities (notably gold)
 * Merger arbitrage
+* Alternative lending
+* Reinsurance (e.g., cat bonds)
 
-I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are very similar. Merger arbitrage naturally has almost no relation to the stock market or other asset classes.
+I'll give small cap value stocks an honorable mention, since they sometimes behave quite differently than cap-weighted stocks. But their sources of risk and expected return are fundamentally similar. Returns from [merger arbitrage](https://www.youtube.com/watch?v=RDdX7IfCM20&list=PLHC72UlhAthDJjFF1-bimGHG5Ubjff5cw&index=9) naturally have almost no relation to returns from stocks or other asset classes, which Chris Cole mentioned in [a podcast with Meb Farber on the Dragon Portfolio](https://www.youtube.com/watch?v=Dqt0SAeHH0w).
 
 -->
 
