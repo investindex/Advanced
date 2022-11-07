@@ -13,6 +13,7 @@ There are many types of investments beyond the stock and bond portfolios discuss
 Click to skip to each section:
 
 * [Real estate investment trusts (REITs)](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits)
+* [New vocabulary](https://github.com/investindex/Advanced#new-vocabulary)
 * [Managed futures and trend-following](https://github.com/investindex/Advanced#managed-futures-and-trend-following)
 * [New allocations](https://github.com/investindex/Advanced#new-allocations)
 * [Black Swans and a Dragon Portfolio](https://github.com/investindex/Advanced#black-swans-and-a-dragon-portfolio)
@@ -39,13 +40,31 @@ REITs are very different than directly owning and managing real estate. While re
 
 &nbsp;
 
+## New vocabulary
+
+Before moving to more sophisticated investments, we should cover a few new terms.
+
+A [derivative](https://www.investopedia.com/terms/d/derivative.asp) is a contract whose value is derived from the value of an underlying asset or benchmark. A derivative's value is not fully constrained by the value of the underlying, but that's one of the primary determinants. The main derivatives are options, futures, swaps, and covered warrants. We'll cover some of them below.
+
+An investor who is _long_ on an asset tends to profit when the asset rises in price. The most common way to be long is to own the asset. If you own shares of VTI, then you are long VTI (or long on VTI; either phrasing is fine). Another long position is to buy a call option, which is one type of option we'll cover later.
+
+An investor who is _short_ on an asset tends to profit when it falls in price. You can take a short position by [short selling](https://www.youtube.com/watch?v=CAs_aX95tVQ), buying a put option (which is a derivative), or buying an [inverse fund](https://www.proshares.com/our-etfs/leveraged-and-inverse/spxu) (which is not a derivative itself, but the fund uses derivatives). You don't need to know what any of these mean for now.
+
+We've already covered some material that references being long and short. In the [stock portfolio section](https://github.com/investindex/Portfolio), we discussed various risk factors like the value factor. It's easy to come away from that discussion thinking that you're investing in the value factor by owning shares of a value fund. But the value factor is actually the return of a portfolio that is long value and short growth. If value stocks return 8% in a given year and growth stocks return 6%, the value factor returned 2%. If growth stocks returned 10% instead, the value premium would be -2%.
+
+A portfolio that is long value and short growth would still have a large positive return if value stocks returned -10% and growth stocks returned -20%. So the value factor can be positive even if returns for value stocks are negative. [QSPRX](https://funds.aqr.com/funds/alternatives/aqr-style-premia-alternative-fund/QSPRX) is a well-known fund that attempts to profit from patterns like this across multiple asset classes. Crucially, this kind of strategy tends to produce returns that are uncorrelated to the returns of the assets themselves. This is called a long-short strategy (also sometimes written as long/short).
+
+&nbsp;
+
+&nbsp;
+
 ## Managed futures and trend-following
 
 One of the major weaknesses of the long-term portfolio I suggested [earlier](https://github.com/investindex/Fund/blob/main/README.md) is the risk of unexpectedly high inflation (which tends to be associated with rising interest rates). High inflation is so nasty to most investments that the US government created [Series I bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) and [TIP securities](https://github.com/investindex/Risk#f6) to help Americans protect their assets. Although long-duration bonds like those held by [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/) are generally a great diversifier for stocks, they're pummeled when inflation and interest rates rise unexpectedly. The last graph in the [section on risk](https://github.com/investindex/Risk#learning-from-history) visualized how stocks and bonds fell together in the inflationary environment of 2021-22. Compared to short bonds, long bonds are often the better way to counteract downward volatility of stocks with their upward volatility. But long bonds perform far worse during high inflation. It gets worse: although it's widely believed that high-quality bonds consistently perform well when stocks are plummeting — providing "crisis alpha" — this relationship is far from assured even when inflation is normal.
 
 A natural question arises. Is there an asset class we can invest in that diversifies beyond stocks and bonds, that might perform well when stocks and bonds fall? Managed futures arguably can play that role. The main funds we'll cover are [KMLM](https://kfafunds.com/kmlm/), [BLNDX](https://www.standpointfunds.com/fund), and [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/).
 
-Futures are a [derivative](https://www.investopedia.com/terms/d/derivative.asp), which means their value is partly derived from the price of an underlying asset. Futures are explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio.
+Futures are a derivative, and they're explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio.
 
 [More incoming here]
 
@@ -129,7 +148,7 @@ Alternative lending invests in students loans, small business loans, and others 
 
 Reinsurance is insurance purchased by an insurance company, to expand the client base they can insure while responsibly managing risk. Losses due to insured events like earthquakes and hurricanes are expected to be highly distinct from stock market downturns. Catastrophe bonds, commonly shortened to cat bonds, are bonds that reward investors when insured disasters do not occur. A good reinsurance fund is diversified across many sources of risk, of which cat bonds are only one. The fund they recommend for reinsurance is [SRRIX](https://www.stoneridgefunds.com/index.html) from Stone Ridge.
 
-From an expected value standpoint, people are willing to overpay for hedges against catastrophic outcomes and for lottery equivalents: opportunities for extreme upside. In other words, it is profitable to sell volatility. They refer to this risk premium as the variance risk premium (VRP). Short vol strategies tend to be risky. An investor who sells options on equities will suffer large drawdowns in the worst economic periods, when most people aren't capable of accepting extra risk. They recommend AVRPX, the Stone Ridge All Asset Variance Risk Premium Interval Fund, which no longer exists. Stone Ridge does offer [VRLIX](https://www.stoneridgefunds.com/hedged-equity.html), but it runs a narrower and less useful strategy than AVRPX, simply selling put options on equity indices. However, Stone Ridge now has a [multi-strategy fund](https://www.stoneridgefunds.com/multi-strategy.html), which includes a multi-asset VRP strategy among several others. Short vol equity strategies are not a diversifier and, because volatility tends to spike across markets at once, multi-asset short vol strategies are probably not much better.
+From an expected value standpoint, people are willing to overpay for hedges against catastrophic outcomes and for lottery equivalents: opportunities for extreme upside. In other words, it is profitable to sell volatility. They refer to this risk premium as the variance risk premium (VRP). Short vol strategies tend to be risky. An investor who sells options on equities will suffer large drawdowns in the worst economic periods, when most people aren't capable of accepting extra risk. They recommend AVRPX, the Stone Ridge All Asset Variance Risk Premium Interval Fund, which no longer exists. Stone Ridge does offer [VRLIX](https://www.stoneridgefunds.com/hedged-equity.html), but it runs a narrower and less useful strategy than AVRPX, simply selling put options on equity indices. However, Stone Ridge has a [multi-strategy fund](https://www.stoneridgefunds.com/multi-strategy.html), which includes a multi-asset VRP strategy among several others. Short vol equity strategies are not a diversifier and, because volatility tends to spike across markets at once, multi-asset short vol strategies are probably not much better.
 
 Long-short risk premia strategies allow an investor to profit by taking a long position on certain assets with a higher expected return, and a short position on others with a lower expected return. A portfolio that is long value stocks and short growth stocks is expected to have positive returns with low correlation to stocks and bonds. [QSPRX](https://funds.aqr.com/funds/alternatives/aqr-style-premia-alternative-fund/QSPRX) from AQR is the fund they recommend for risk premia strategies across multiple asset classes.
 
