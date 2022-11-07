@@ -156,7 +156,7 @@ Time-series momentum, or trend-following, is generally implemented using futures
 
 In an appendix, they discuss whether REITs add diversification. They review one of the same studies that [Ben Felix](https://www.youtube.com/watch?v=IzK5x3LlsUU) covered, and note that REITs have historically been highly correlated with a portfolio of small cap value stocks and corporate bonds. Their conclusion is the same as Felix's: there is little reason to overweight REITs beyond market cap weights.
 
-All of these strategies are less tax-efficient than buying and holding a stock ETF.
+All of these strategies are less tax-efficient and charge higher fees than buying and holding a stock ETF. Still, the diversification provided by some of them is impressive.
 
 &nbsp;
 
