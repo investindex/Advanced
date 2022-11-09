@@ -96,7 +96,11 @@ I'll emphasize that overweighting REITs is a debatable decision. Personally I've
 
 &nbsp;
 
-What about including managed futures? Here's a possible portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/):
+The portfolios above are divided between two asset classes:
+
+80% stocks + 20% bonds
+
+We can build a portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/). Here's a possible allocation that includes managed futures:
 
 50% stocks + 18% [BLNDX](https://www.standpointfunds.com/fund) + 18% [KMLM](https://kfafunds.com/kmlm/) + 14% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
