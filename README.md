@@ -48,7 +48,7 @@ A [derivative](https://www.investopedia.com/terms/d/derivative.asp) is a contrac
 
 An investor who is _long_ on an asset tends to profit when the asset rises in price. The most common way to be long is to own the asset. If you own shares of VTI, then you are long VTI (or long on VTI; either phrasing is fine). Another long position is to buy a call option, which is one type of option we'll cover later.
 
-An investor who is _short_ on an asset tends to profit when it falls in price. A short position is bearish. You can take a short position by [short selling](https://www.youtube.com/watch?v=CAs_aX95tVQ), buying a put option (which is a derivative), or buying an [inverse fund](https://www.proshares.com/our-etfs/leveraged-and-inverse/spxu) (which is not a derivative itself, but the fund uses derivatives). You don't need to know what any of these mean for now.
+An investor who is _short_ on an asset tends to profit when it falls in price. You can take a short position by [short selling](https://www.youtube.com/watch?v=CAs_aX95tVQ), buying a put option (which is a derivative), or buying an [inverse fund](https://www.proshares.com/our-etfs/leveraged-and-inverse/spxu) (which is not a derivative itself, but the fund uses derivatives). You don't need to know what any of these mean for now.
 
 Recall the [discussion](https://github.com/investindex/Risk#total-return) of bull markets, in which prices go up, and bear markets, in which prices go down. A long position can also be called bullish, and a short position is bearish.
 
