@@ -69,9 +69,9 @@ A natural question arises. Is there an asset class we can invest in that diversi
 Futures are a derivative, and they're explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio.
 
 KMLM is an ETF that trend-follows among:
-* bonds
-* commodities (gold, copper, natural gas, WTI crude oil, corn, wheat, soybeans, cattle, etc.)
-* currencies (US dollar, Euro, British pound, Japanese yen, Chinese renminbi, Canadian dollar, Australian dollar, Singapore dollar, Swedish krona, Swiss franc, etc.)
+* global government bonds from the US, Japan, Germany, UK, and Canada
+* commodities (gold, copper, natural gas, heating oil, WTI crude oil, corn, wheat, sugar, soybeans, cattle)
+* currencies (Euro, British pound, Japanese yen, Canadian dollar, Australian dollar, Swiss franc)
 
 [More incoming here]
 
