@@ -75,7 +75,11 @@ KMLM is an ETF that trend-follows using futures on:
 * commodities (gold, copper, natural gas, heating oil, gasoline, crude oil, corn, wheat, sugar, soybeans, cattle)
 * currencies (Euro, British pound, Japanese yen, Canadian dollar, Australian dollar, Swiss franc)
 
-DBMF is a hedge fund aggregator: it imitates the positions of CTA hedge funds. In addition to bonds, commodities, and currencies, DBMF trades equities. A central part of their pitch is that they're delivering exposure that is similar to what hedge funds offer, but with fees that are hundreds of basis points lower. Its net expense ratio is currently .85%.
+DBMF is a hedge fund aggregator: it imitates the positions of CTA hedge funds. In addition to bonds, commodities, and currencies, DBMF trades equities. A central part of their pitch is that they deliver similar exposure to hedge funds, but with fees that are hundreds of basis points lower. In addition, the aggregation strategy reduces single-manager risk  the idiosyncratic risks of each actively managed CTA hedge fund. This strategy, which relies on condensing active bets by a variety of hedge funds, is quite different than that of KMLM, which largely uses trend-following.
+
+BLNDX has an appropriate ticker: half of its portfolio is occupied by cap-weighted developed market stock ETFs (VTI and VEA, and their counterparts at BlackRock, State Street, and Schwab). This is combined with managed futures on a wide range of commodities, currencies, bonds, and equities (listed in [their brochure](https://www.standpointfunds.com/fund/brochure)).
+
+The net expense ratios of these funds are .92% for KMLM, .85% for DBMF, and 1.27% for BLNDX. This will probably strike many people as outrageously high. The highest expense ratio of a fund suggested so far is the 43 basis points charged by [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf), Dimensional's emerging markets value ETF.
 
 [More incoming here]
 
