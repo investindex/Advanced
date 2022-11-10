@@ -72,7 +72,7 @@ Futures are a derivative, and they're explained in [these](https://www.youtube.c
 
 KMLM is an ETF that trend-follows using futures on:
 * government bonds from the US, Japan, Germany, UK, and Canada
-* commodities (gold, copper, natural gas, heating oil, gasoline, WTI crude oil, corn, wheat, sugar, soybeans, cattle)
+* commodities (gold, copper, natural gas, heating oil, gasoline, crude oil, corn, wheat, sugar, soybeans, cattle)
 * currencies (Euro, British pound, Japanese yen, Canadian dollar, Australian dollar, Swiss franc)
 
 DBMF is a hedge fund aggregator: it imitates the positions of CTA hedge funds. In addition to bonds, commodities, and currencies, DBMF trades equities. A central part of their pitch is that they're delivering exposure that is similar to what hedge funds offer, but with fees that are hundreds of basis points lower. Its net expense ratio is currently .85%.
