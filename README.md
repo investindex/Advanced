@@ -68,7 +68,9 @@ One of the major weaknesses of the long-term portfolio I suggested [earlier](htt
 
 A natural question arises. Is there an asset class we can invest in that diversifies beyond stocks and bonds, that might perform well when stocks and bonds fall? Managed futures arguably can play that role. The main funds we'll cover are [KMLM](https://kfafunds.com/kmlm/), [BLNDX](https://www.standpointfunds.com/fund), and [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/). Managed futures funds are also called CTA funds, where CTA is [commodity trading advisor](https://en.wikipedia.org/wiki/Commodity_trading_advisor).
 
-Futures are a derivative, and they're explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio. It's important to understand that futures allow a trader to take a long, short, or flat position in various markets.
+Few people buy managed futures funds because they think their long-term returns will be high as a standalone product. They invest because managed futures can have a strong, positive effect on the portfolio as a whole.
+
+Futures are a derivative, and they're explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio. It's important to understand that futures allow a trader to take a long or short position in various markets.
 
 KMLM is an ETF that trend-follows using futures on:
 * government bonds from the US, Japan, Germany, UK, and Canada
