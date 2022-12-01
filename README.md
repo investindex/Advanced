@@ -77,7 +77,7 @@ KMLM is an ETF that trend-follows using futures on:
 * commodities (gold, copper, natural gas, heating oil, gasoline, crude oil, corn, wheat, sugar, soybeans, cattle)
 * currencies (Euro, British pound, Japanese yen, Canadian dollar, Australian dollar, Swiss franc)
 
-BLNDX has an appropriate ticker: half of its portfolio is occupied by cap-weighted developed market stock ETFs (VTI and VEA, and their counterparts at BlackRock, State Street, and Schwab). This is combined with managed futures on a wide range of commodities, currencies, bonds, and equities (listed in [their brochure](https://www.standpointfunds.com/fund/brochure)).
+BLNDX has an appropriate ticker: half of its portfolio is occupied by cap-weighted developed market stock ETFs (VTI and VEA, and their counterparts at BlackRock, State Street, and Schwab). This is combined with managed futures on a wide range of commodities, currencies, bonds, and equities (listed in [their brochure](https://www.standpointfunds.com/fund/brochure)). Various interviews with the manager, Eric Crittenden, are on YouTube, of which [this one](https://www.youtube.com/watch?v=b80rsjDfO2Q) is my favorite.
 
 DBMF is a hedge fund aggregator: it imitates the positions of CTA hedge funds. In addition to bonds, commodities, and currencies, DBMF trades equities. A central part of their pitch is that they deliver similar exposure to hedge funds, but with fees that are hundreds of basis points lower. In addition, the aggregation strategy reduces single-manager risk — the idiosyncratic risks of each actively managed CTA hedge fund. This strategy, which relies on condensing active bets by a variety of hedge funds, is quite different than that of KMLM, which largely uses trend-following.
 
