@@ -81,7 +81,7 @@ BLNDX has an appropriate ticker: half of its portfolio is occupied by cap-weight
 
 DBMF is a hedge fund aggregator: it imitates the positions of CTA hedge funds. In addition to bonds, commodities, and currencies, DBMF trades equities. A central part of their pitch is that they deliver similar exposure to hedge funds, but with fees that are hundreds of basis points lower. In addition, the aggregation strategy reduces single-manager risk — the idiosyncratic risks of each actively managed CTA hedge fund. This strategy, which relies on condensing active bets by a variety of hedge funds, is quite different than that of KMLM, which largely uses trend-following.
 
-The net expense ratios of these funds are .92% for KMLM, .85% for DBMF, and 1.27% for BLNDX. This will probably strike many people as outrageously high. The highest expense ratio of a fund suggested so far is the 43 basis points charged by [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf), Dimensional's emerging markets value ETF.
+The net expense ratios of these funds are .92% for KMLM, .85% for DBMF, and 1.27% for BLNDX. This will probably strike many people as outrageously high. The highest expense ratio of a fund suggested so far is the 43 basis points charged by [DFEV](https://www.dimensional.com/us-en/funds/dfev/emerging-markets-value-etf), Dimensional's emerging markets value ETF.
 
 [More incoming here]
 
@@ -101,13 +101,13 @@ We also [discussed](https://github.com/investindex/Fund/blob/main/README.md#beyo
 
 or
 
-18% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 12% [DFLV](https://www.dimensional.com/us-en/funds/dflv/us-large-cap-value-etf) + 10.5% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 7% [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 7.5% [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 11% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://us.dimensional.com/etfs/dfar/us-real-estate-etf) + 20% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
+18% [DFSV](https://www.dimensional.com/us-en/funds/dfsv/us-small-cap-value-etf) + 12% [DFLV](https://www.dimensional.com/us-en/funds/dflv/us-large-cap-value-etf) + 10.5% [DISV](https://www.dimensional.com/us-en/funds/disv/international-small-cap-value-etf) + 7% [DFIV](https://www.dimensional.com/us-en/funds/dfiv/international-value-etf) + 7.5% [DFEV](https://www.dimensional.com/us-en/funds/dfev/emerging-markets-value-etf) + 11% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 7% [IVAL](https://etfsite.alphaarchitect.com/ival/) + 7% [DFAR](https://www.dimensional.com/us-en/funds/dfar/us-real-estate-etf) + 20% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
 &nbsp;
 
 In a taxable account, REIT funds should be eliminated. Both of these portfolios have an acute value tilt and their returns will sometimes deviate greatly from the market (VT). Someone with a large account could invest in Avantis and DFA funds instead of picking only one of them. They could split the allocation to AVUV or DFSV between the two, and do the same with AVLV/DFLV, AVDV/DISV, AVIV/DFIV, and AVES/DFEV. Note that AVRE and DFAR are not as similar as the other pairs, because AVRE is a global fund and DFAR is a US fund. However, more than two-thirds of AVRE's portfolio is in the US.
 
-I'll emphasize that overweighting REITs is a debatable decision. Personally I've chosen to include a small allocation to DFAR in my Roth IRA. Because REITs provide high income, foreign tax withholding of dividends makes a global real estate allocation questionable. Apart from not owning AVRE, I split allocations evenly between Avantis and DFA funds.
+I'll emphasize that overweighting REITs is a debatable decision. Personally I've chosen to include a small allocation to DFAR in my Roth IRA, due to underweighting real estate in my other accounts. Because REITs provide high income, foreign tax withholding of dividends makes a global real estate allocation questionable. Apart from not owning AVRE, I split allocations evenly between Avantis and DFA funds.
 
 &nbsp;
 
