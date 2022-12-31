@@ -239,6 +239,10 @@ Stablecoins pegged to the value of a currency, most notably the US dollar but al
 
 &nbsp;
 
+The sections below on leverage are half-baked for now, but they contain some possibly useful thoughts on the use of leverage in a long-term portfolio.
+
+&nbsp;
+
 ## Leveraged funds
 
 In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-curb-leveraged-etfs-1465205401) the creation of highly leveraged funds, and asset managers like Direxion and ProShares have since launched well over 100 leveraged ETFs. Some of them were listed in the midst of the stock market's recovery from the 2008 financial crisis. This turned out to be impeccable timing, because the 2010s witnessed a spectacular bull market for US stocks, in particular tech stocks. Additionally, interest rates have been low since 2009, minimizing the cost of using derivatives to lever up the returns. The leveraged fund with the largest AUM is [TQQQ](https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq/). It's named after QQQ, which tracks the tech-heavy [Nasdaq 100](https://en.wikipedia.org/wiki/Nasdaq-100) index. The fund uses derivatives to produce three times the daily returns of the Nasdaq 100. If QQQ increases 1% tomorrow, TQQQ will increase by about 3%. If QQQ falls by 2%, TQQQ will fall by about 6%.<sup id="fn1">[[1]](#f1)</sup>
