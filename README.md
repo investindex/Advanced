@@ -73,7 +73,7 @@ Few people buy managed futures funds because they think their long-term returns 
 2022 illustrated the value of a fund like KMLM:
 
 <p align="center">
-<img src="https://github.com/investindex/Advanced/blob/main/2022%20crash.png" width="720" height="494"/>
+<img src="https://github.com/investindex/Advanced/blob/main/2022%20crash.png"/>
 </p>
 
 Futures are a derivative, and they're explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio. It's important to understand that futures allow a trader to take a long or short position in various markets.
