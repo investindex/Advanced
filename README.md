@@ -135,6 +135,8 @@ In more detail, 50% stocks could be:
 
 Again, this allocation heavily overweights value stocks and is very different than VT. BLNDX holds cap-weighted stocks in developed markets. To reach an 18% allocation of BLNDX, which has a minimum investment of $25K, one would need a total portfolio of nearly $139K. The other share class of the same fund, REMIX, has a minimum investment of only $2.5K but a higher expense ratio.
 
+You could throw in [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/) if you're comfortable with active management (in this case, the expense ratio is _lower_ than the more passive funds!). You could allocate (say) 12% each to KMLM, DBMF, and BLNDX.
+
 &nbsp;
 
 &nbsp;
