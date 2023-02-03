@@ -80,6 +80,10 @@ Few people buy managed futures funds because they think their long-term returns 
 
 Futures are a derivative, and they're explained in [these](https://www.youtube.com/watch?v=1Mhk4UHJsRc) [videos](https://www.youtube.com/watch?v=nwR5b6E0Xo4). I don't think a deep understanding of futures is needed to appreciate why a managed futures fund can be valuable to a portfolio. It's important to understand that futures allow a trader to take a long or short position in various markets.
 
+There are two types of momentum used for investing: cross-sectional and time series. Cross-sectional momentum is used in funds like QMOM and IMOM, where momentum is another factor like value. The momentum of different assets over a lookback period is compared, and the assets are ranked. You take a long position on those with the best momentum, and a short position on those with the worst momentum. So in QMOM, there are long and short positions on different stocks.
+
+In contrast, time series momentum is used in trend-following funds like KMLM. This approach focuses on each asset's own past returns, and takes a long position if momentum is positive and a short position if momentum is negative. KMLM may go short on UK government bond futures and long on copper futures. Strategies vary in their lookback periods, which range from 1 to 12 months. A strategy may combine multiple lookback periods for greater robustness.
+
 [KMLM](https://kfafunds.com/kmlm/) is an ETF that trend-follows using futures on:
 * government bonds from the US, Japan, Germany, UK, and Canada
 * commodities (gold, copper, natural gas, heating oil, gasoline, crude oil, corn, wheat, sugar, soybeans, cattle)
