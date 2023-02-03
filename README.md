@@ -129,9 +129,13 @@ I'll emphasize that overweighting REITs is a debatable decision. Personally I've
 
 The portfolios above are divided between two asset classes:
 
-80% stocks + 20% bonds
+80% stocks + 20% long bonds
 
-We can build a portfolio that's much more [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/). Here's a possible allocation that includes managed futures:
+We could completely replace bonds with trend-following across asset classes, and Wes Gray (co-founder of Alpha Architect) [prefers](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/) to _only_ have exposure to bonds through trend. For example:
+
+20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 18% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 12% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 9% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 6% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/)
+
+Or, imagine you're someone who wants a portfolio that is not quite as focused on aggressive growth, and you want a portfolio that is [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/). Here's a possible allocation that includes managed futures:
 
 50% stocks + 18% [BLNDX](https://www.standpointfunds.com/fund) + 18% [KMLM](https://kfafunds.com/kmlm/) + 14% [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/)
 
@@ -139,7 +143,7 @@ In more detail, 50% stocks could be:
 
 12% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html)/[DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 8% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html)/[DFLV](https://www.dimensional.com/us-en/funds/dflv/us-large-cap-value-etf) + 6% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html)/[DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) + 4% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html)/[DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf) + 8% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html)/[DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf) + 8% [QVAL](https://etfsite.alphaarchitect.com/qval/) + 4% [IVAL](https://etfsite.alphaarchitect.com/ival/)
 
-Again, this allocation heavily overweights value stocks and is very different than VT. BLNDX holds cap-weighted stocks in developed markets. To reach an 18% allocation of BLNDX, which has a minimum investment of $25K, one would need a total portfolio of nearly $139K. The other share class of the same fund, REMIX, has a minimum investment of only $2.5K but a higher expense ratio.
+Through ZROZ, this portfolio chooses to have a long position in bonds beyond trend-following. I think this is a defensible choice, but it would also be defensible to split the portfolio between stocks and managed futures. Again, this allocation heavily overweights value stocks and is very different than VT. BLNDX holds cap-weighted stocks in developed markets. To reach an 18% allocation of BLNDX, which has a minimum investment of $25K, one would need a total portfolio of nearly $139K. The other share class of the same fund, REMIX, has a minimum investment of only $2.5K but a higher expense ratio.
 
 You could throw in [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/) if you're comfortable with active management (in this case, the expense ratio is _lower_ than the more passive funds!). You could allocate (say) 12% each to KMLM, DBMF, and BLNDX.
 
