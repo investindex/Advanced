@@ -133,7 +133,7 @@ The portfolios above are divided between two asset classes:
 
 We could completely replace bonds with trend-following across asset classes, and Wes Gray (co-founder of Alpha Architect) [prefers](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/) to _only_ have exposure to bonds through trend. For example:
 
-20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 18% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 12% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 9% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 6% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/)
+70% stocks + 15% [KMLM](https://kfafunds.com/kmlm/) + 15% [DBMF](https://imgpfunds.com/im-dbi-managed-futures-strategy-etf/)
 
 Or, imagine you're someone who wants a portfolio that is not quite as focused on aggressive growth, and you want a portfolio that is [robust to chaos](https://alphaarchitect.com/2022/06/how-i-invest-my-own-money-robust-to-chaos/). Here's a possible allocation that includes managed futures:
 
