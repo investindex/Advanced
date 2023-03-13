@@ -261,11 +261,9 @@ Stablecoins pegged to the value of a currency, most notably the US dollar but al
 
 &nbsp;
 
-The sections below on leverage are half-baked for now, but they contain some possibly useful thoughts on the use of leverage in a long-term portfolio.
-
-&nbsp;
-
 ## Leveraged funds
+
+The sections below on leverage are half-baked for now, but they contain some possibly useful thoughts on the use of leverage in a long-term portfolio.
 
 In 2006, the SEC [finally permitted](https://www.wsj.com/articles/sec-moves-to-curb-leveraged-etfs-1465205401) the creation of highly leveraged funds, and asset managers like Direxion and ProShares have since launched well over 100 leveraged ETFs. Some of them were listed in the midst of the stock market's recovery from the 2008 financial crisis. This turned out to be impeccable timing, because the 2010s witnessed a spectacular bull market for US stocks, in particular tech stocks. Additionally, interest rates have been low since 2009, minimizing the cost of using derivatives to lever up the returns. The leveraged fund with the largest AUM is [TQQQ](https://www.proshares.com/our-etfs/leveraged-and-inverse/tqqq/). It's named after QQQ, which tracks the tech-heavy [Nasdaq 100](https://en.wikipedia.org/wiki/Nasdaq-100) index. The fund uses derivatives to produce three times the daily returns of the Nasdaq 100. If QQQ increases 1% tomorrow, TQQQ will increase by about 3%. If QQQ falls by 2%, TQQQ will fall by about 6%.<sup id="fn1">[[1]](#f1)</sup>
 
@@ -306,7 +304,9 @@ Options are a [derivative](https://www.youtube.com/watch?v=Wjlw7ZpZVK4), which m
 
 ### Introduction to options
 
-Before explaining what options are, I think it will be useful to describe why we would consider using them. In the section on risk, we [discussed](https://github.com/investindex/Risk#two-broad-types-of-risk) the distinction between compensated and uncompensated risk. And in the section on building a stock portfolio, we [discussed](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting) how to systematically invest in riskier stocks in order to increase our expected return. This is a way of taking compensated risk, which is the kind of risk we want. But how could we take even more compensated risk than owning stock funds — which are already quite volatile — with the hope of greater long-term returns? Buying stock is a bet that the stock portfolio will have positive returns, and buying options is a way to make a more extreme bet that those shares will have positive returns. This is a form of [leverage](https://www.investopedia.com/terms/l/leverage.asp): a correct prediction can yield much greater gains, and an incorrect one can cause large losses.
+Before explaining what options are, I think it will be useful to describe why we would consider using them. Options can be used to increase leverage on a position, to hedge the risk of an existing position, and to establish complex risk profiles. You can even use options to bet that [volatility will be lower](https://www.investopedia.com/terms/i/ironcondor.asp) than the market expects. This isn't a bet you can make by purchasing or selling the security itself.
+
+In the section on risk, we [discussed](https://github.com/investindex/Risk#two-broad-types-of-risk) the distinction between compensated and uncompensated risk. And in the section on building a stock portfolio, we [discussed](https://github.com/investindex/Portfolio#moving-beyond-market-cap-weighting) how to systematically invest in riskier stocks in order to increase our expected return. This is a way of taking compensated risk, which is the kind of risk we want. But how could we take even more compensated risk than owning stock funds — which are already quite volatile — with the hope of greater long-term returns? Buying stock is a bet that the stock portfolio will have positive returns, and buying options is a way to make a more extreme bet that those shares will have positive returns. This is a form of [leverage](https://www.investopedia.com/terms/l/leverage.asp): a correct prediction can yield much greater gains, and an incorrect one can cause large losses.
 
 So what is an option? It’s a contract between you and another person, who is called the "counterparty" because they’re taking the other side of the trade. The value of the contract is based partly on the value of an underlying security, like an ETF. There are different types of options, but we’ll focus on only one type, a call option. We’ll make up an ETF with the ticker “XY”. If we buy a call option on XY, the contract would provide us with certain rights.
 
