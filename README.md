@@ -97,7 +97,7 @@ With a time series momentum strategy, you could take a long or short position on
 
 AQR offers various alternative investments, including a managed futures fund. While AQR offers one of the most widely respected funds in this category, the share class with the lowest minimum investment ([AQMNX](https://funds.aqr.com/funds/alternatives/aqr-managed-futures-strategy-fund/aqmnx)) requires you to put up at least $1 million. So if you allocated (say) 12.5% to this fund, you would need a portfolio of at least $8 million. Or you could invest with an institution, like a wealth management firm or work retirement plan, that can pool the investments of many people. If you have the resources to put a fraction of your portfolio in this fund, you should consider doing so! But we won't focus on this fund.
 
-The net expense ratios of these funds are .92% for KMLM, .85% for DBMF, and 1.27% for BLNDX. This will probably strike many people as outrageously high. The highest expense ratio of a fund suggested so far is the 43 basis points charged by [DFEV](https://www.dimensional.com/us-en/funds/dfev/emerging-markets-value-etf), Dimensional's emerging markets value ETF.
+The net expense ratios of these funds are .92% for KMLM, .85% for DBMF, and 1.27% for BLNDX. This will probably strike many people as outrageously high. The highest expense ratio of funds suggested so far are the 43 basis points charged by [DFEV](https://www.dimensional.com/us-en/funds/dfev/emerging-markets-value-etf), Dimensional's emerging markets value ETF, and the 49 basis points charged by [IVAL](https://etfsite.alphaarchitect.com/ival/), Alpha Architect's international value ETF.
 
 [More incoming here]
 
